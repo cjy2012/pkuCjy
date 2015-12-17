@@ -1,5 +1,6 @@
 package xmlAnalysis;
 
+import java.util.ArrayList;
 import java.util.List;
 
 public class quesObject {
@@ -7,6 +8,9 @@ public class quesObject {
 	private String QCATEGORY;
 	private String QBody;
 	private List<commentObj> Comments;
+	public String [] quesWords;
+	public int quesNums;
+	public double [] quesFeatures;
 
 	public String getQID() {
 		return QID;
