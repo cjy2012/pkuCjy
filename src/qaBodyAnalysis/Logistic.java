@@ -117,11 +117,9 @@ public class Logistic {
 		if(line.length==this.weights.length){
 			for(int i=0;i<line.length;i++)
 				this.weights[i] = Double.valueOf(line[i]);
-//			System.out.println("load weights success!");
 		}
 		else
-//			System.out.println("load weights failed!");
-		cin.close();
+		   cin.close();
     }
 }
 

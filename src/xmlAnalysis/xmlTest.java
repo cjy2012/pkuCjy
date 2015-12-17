@@ -10,7 +10,6 @@ import java.util.List;
 import javax.xml.parsers.DocumentBuilder;
 import javax.xml.parsers.DocumentBuilderFactory;
 import javax.xml.parsers.ParserConfigurationException;
-import javax.xml.transform.TransformerException;
 import org.w3c.dom.Document;
 import org.w3c.dom.Element;
 import org.w3c.dom.NodeList;
@@ -89,24 +88,24 @@ public class xmlTest {
 			/* 读取xml并解析得到内容 */
 			List<quesObject> xmlReslut = readXml(doc);
 			new qaContentFeature(xmlReslut);
-			Logistic lg=new Logistic();
-			lg.trainCon(xmlReslut);
-			lg.printWeight("./etc/weightResult.txt");
-			System.out.println("训练模型得到的数据："+lg.getWeights()[0]+"\t"+lg.getWeights()[1]+"\t"+lg.getWeights()[2]);
-//			for (quesObject qjj : xmlReslut) {
-//				file.write(qjj.getQID() + "\t\t" + qjj.quesNums + "\t\t"
-//						+ qjj.getQBody() + "\r\n");
-//				for (commentObj cmoj : qjj.getComments()) {
-//					file.write(cmoj.getCID() + "\t\t" + cmoj.commNums + "\t\t"
-//							+ cmoj.getCBody() + "\t\t" + cmoj.commFeatures[0]
-//							+ "\t\t" + cmoj.commFeatures[1] + "\t\t"
-//							+ cmoj.commFeatures[2] + "\r\n");
-//				}
-//				file.write("~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
-//						+ "\r\n");
-//				file.flush();
-//			}
-//			file.close();
+			//Logistic lg=new Logistic();
+			//lg.trainCon(xmlReslut);
+			//lg.printWeight("./etc/weightResult.txt");
+			trainContent tc=new trainContent();
+			tc.computerScore(xmlReslut);
+			//System.out.println("训练模型得到的数据："+lg.getWeights()[0]+"\t"+lg.getWeights()[1]+"\t"+lg.getWeights()[2]);
+			for (quesObject qjj : xmlReslut) {
+				file.write(qjj.getQID() + "\t\t" + qjj.quesNums + "\t\t"
+						+ qjj.getQBody() + "\r\n");
+				for (commentObj cmoj : qjj.getComments()) {
+					file.write(cmoj.getCID()+ "\t\t"
+							+ cmoj.getCGOLD()+"\t\t"+cmoj.score+ "\r\n");
+				}
+				file.write("~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+						+ "\r\n");
+				file.flush();
+			}
+			file.close();
 			
 		} catch (ParserConfigurationException e) {
 			e.printStackTrace();

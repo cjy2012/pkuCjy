@@ -11,16 +11,17 @@ import xmlAnalysis.quesObject;
 public class trainContent {
 	Logistic lg;
 	
-	public trainContent(){
+	public trainContent() throws Exception{
 		lg=new Logistic();
+		lg.loadWeight("./etc/weightResult.txt");
 	}
 	
-	public void extractWhen(List<quesObject> qls) {
+	public void computerScore(List<quesObject> qls) {
 		/*classify*/
 		for(quesObject qoj:qls){
 			for(commentObj coj:qoj.getComments()){
 			  coj.score=this.lg.classify(coj.commFeatures);
-			  System.out.println("分数："+coj.score);
+			  //System.out.println("分数："+coj.score);
 			}
 		}
 	}

@@ -1,0 +1,1979 @@
+Q2601		47		i am currently working here in dubai and i got an offer from qatar company.. they offered 8000QAR +camp accommodation +meal and transportation is provided by the company.will this be enough to accept the offer? how good is the transportation there in qatar?
+Q2601_C1		3		0.5467837864599535
+Q2601_C2		1		0.6183711228856863
+Q2601_C3		1		0.6150789117581433
+Q2601_C4		1		0.5415703253325665
+Q2601_C5		4		0.5701029544515427
+Q2601_C6		2		0.5603251999928491
+Q2601_C7		4		0.5549011244194886
+Q2601_C8		3		0.5662929706083981
+Q2601_C9		3		0.5447562441947827
+Q2601_C10		3		0.5937433444306494
+Q2601_C11		2		0.5347372474723731
+Q2601_C12		1		0.6136136765915062
+Q2601_C13		2		0.5469248652077691
+Q2601_C14		1		0.6221674549944518
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Q2602		14		Hi,Would anyone know of any organised tennis competitions in Doha?Many Thanks Jessica
+Q2602_C1		2		0.591905277002853
+Q2602_C2		3		0.5937377538824086
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Q2603		19		Please advice me any good nurseries which is till 3.Contact numbers if possible...Thanks in advance!
+Q2603_C1		4		0.569138461874146
+Q2603_C2		1		0.569138461874146
+Q2603_C3		1		0.6105550542328292
+Q2603_C4		4		0.6119568237082976
+Q2603_C5		1		0.6336537929353444
+Q2603_C6		1		0.6172568382330249
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Q2604		38		Im looking for a car for 1 month used for me to used daily for my work and business. i hope i can find and u can suggest wer can i find good car here in qatar
+Q2604_C1		3		0.5594742960273137
+Q2604_C2		4		0.624635940923577
+Q2604_C3		1		0.6174373002045469
+Q2604_C4		1		0.5995128923318191
+Q2604_C5		3		0.5532938878942704
+Q2604_C6		1		0.5910720956401854
+Q2604_C7		3		0.5777287877111444
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Q2605		84		I had an interview with department head and lead people ( not HR )at QP for the Grade-13 post.. and they said they will inform me the next procedure like medical chekups etc.Does anybody have the idea how much it will take to complete the procedure and when can i get the offer letter.and please do let me know what will be the approximate salary and other allowances. If anybody have any idea, please share with me.Please.
+Q2605_C1		4		0.5288509565769497
+Q2605_C2		4		0.5262153382654916
+Q2605_C3		1		0.5260093835880725
+Q2605_C4		1		0.5802008140394138
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Q2606		29		does ah phone number now can eat like ah chocolate?im only looking 4 help and advice!i have no business 4 grls..anyway tnx 4 ur reply....
+Q2606_C1		4		0.596761767384196
+Q2606_C2		1		0.6020511053404414
+Q2606_C3		1		0.596761767384196
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Q2607		51		Our baby is scheduled for his six month vaccination and we we wondering where to take him.some people say it depends on the freshness of the vaccine. are all common vaccinations available everywhere.Price is not an issue as long as our boy is safe, preferably afternoon clinics.
+Q2607_C1		1		0.5461147443193418
+Q2607_C2		1		0.6181411390124308
+Q2607_C3		1		0.5611993634370932
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Q2608		79		hello i am moving from the US to Doha end of Jan. I am looking for a female arabic teacher that can come and teach me Arabic at home. I want to learn to speak arabic, but also would like to learn how to read the Quran, as i am a muslima and never learned. Can someone give me info on how to find an arabic teacher, that will come home and teach.
+Q2608_C1		1		0.6173079489267084
+Q2608_C2		1		0.5438389328862265
+Q2608_C3		1		0.5660628690486719
+Q2608_C4		2		0.5375527665125519
+Q2608_C5		1		0.5779648755410486
+Q2608_C6		1		0.617982700773145
+Q2608_C7		1		0.555866481327431
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Q2609		81		Hi all, I'm coming in 2 weeks to Doha and I was wondering how's the weather in december. Should I bring winter clothes? Jacket? Coat? Wool etc... I can see in the forcasts that it can go down to 10deg sometimes but this doesn't mean much since there's a lot of factors for example 10deg Celsius is ok in Boston but if you go to washington you're gonna freeze in 10deg C TY
+Q2609_C1		1		0.5487564876808737
+Q2609_C2		3		0.5644642258499027
+Q2609_C3		1		0.5764180257476745
+Q2609_C4		1		0.5770291389085139
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Q2610		49		hi and hello i need cats or kittens if you have because my cat deid yeterday :[ but you can help me if you have cats i will buy but the priceshould be between 100-150 you can help me :] if you can call me my number******6983357****** hotmail******salmankhan_tweety@hotmail.com******
+Q2610_C1		3		0.5820003421326173
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Q2611		45		hi friends! can u plz help me, i want to study engineering and i cant decide between CNA-Q and QU(qatar university) ,,, so plz advise which one is better .. thanks in advance.... =)
+Q2611_C1		4		0.5931094784033369
+Q2611_C2		3		0.5457585294986727
+Q2611_C3		1		0.6216105539929311
+Q2611_C4		1		0.5612237732888995
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Q2612		26		Hi All ! Appreciate your suggestions for A Birthday Gift for 7 years old girl (daughter of my friend ).. Thanks in advance.
+Q2612_C1		1		0.5668565693019737
+Q2612_C2		1		0.5865979731564471
+Q2612_C3		1		0.6264542120251485
+Q2612_C4		1		0.6255412723775136
+Q2612_C5		1		0.5422467822155865
+Q2612_C6		1		0.6090692976156746
+Q2612_C7		4		0.5729863596219065
+Q2612_C8		1		0.6443514809883502
+Q2612_C9		4		0.613543141758259
+Q2612_C10		3		0.5422467822155865
+Q2612_C11		1		0.5740754881581259
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Q2613		18		Its Halloween again...do u celebrate it? can you share one eerie experience of yours...
+Q2613_C1		2		0.5963690017897385
+Q2613_C2		4		0.6185721622206681
+Q2613_C3		2		0.6309066983893542
+Q2613_C4		2		0.5428602060411456
+Q2613_C5		4		0.573841289895943
+Q2613_C6		4		0.5428602060411456
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Q2614		22		hello everyone, is the any papers required for transfering of the car registration, Can any one help me on this
+Q2614_C1		3		0.6273074832956764
+Q2614_C2		3		0.6268860927635642
+Q2614_C3		3		0.6193465306426978
+Q2614_C4		1		0.6270284527311074
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Q2615		10		where to enroll my 6 years old a karate class
+Q2615_C1		1		0.6320468991120336
+Q2615_C2		1		0.6258808729026067
+Q2615_C3		1		0.6279902499595283
+Q2615_C4		1		0.6167858301694198
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Q2616		25		what is the cheapest airline to Jordan and how much cost the ticket ? travel in 27 of january and return after one week.
+Q2616_C1		3		0.5322118066942778
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Q2617		33		Discussing with my company regarding annual increment of allowance. Is there any official statistics about increment of prices in Qatar? Something official statistics agency, Central Bank of Qatar or similar?
+Q2617_C1		1		0.5824491591360156
+Q2617_C2		1		0.6269896912494656
+Q2617_C3		1		0.6189921825036165
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Q2618		74		I am considering a job offer in Qatar and have been looking on this and other sites for info. I have a 12 year old conviction of GBH for which I received a 250 GBP fine. This has been considered spent in the UK for 7 years. Does anyone know wether this is relevant to obtaining a work visa(I do not work with chidren or vulnerable groups)? Thanks in advance.
+Q2618_C1		1		0.535901217797932
+Q2618_C2		1		0.5319103293985408
+Q2618_C3		4		0.5889512294547096
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Q2620		65		I am selling one month old car, 1600 KM, GMC Yukon Danali, FULL options, white The price of the car is around 230,000 NEW. This is 2012 model. How much do you think it will be sold from new price? Car is excellent, of course brand new, even the plastic seat covers are on it.
+Q2620_C1		1		0.5458728582994814
+Q2620_C2		1		0.5447528977959861
+Q2620_C3		1		0.5674579922989249
+Q2620_C4		1		0.573876654908201
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Q2621		40		salaam-hello can anyone tell me what are the laws about car seats for children in Qatar? I'm sure I can buy them there but also wondering if I should bring what I have or buy there . thanks!
+Q2621_C1		1		0.6174734442021587
+Q2621_C2		1		0.5773322904929197
+Q2621_C3		4		0.607076390683927
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Q2622		46		I am planning to organize a community service specifically beach cleaning to be carried out by our company staff. Any good suggestion of a beach? Anyone who can assist me please. You may reach me by email : sanedr@hotmail.com or mobile 55172547
+Q2622_C1		2		0.5648013481908708
+Q2622_C2		2		0.54325997472033
+Q2622_C3		2		0.6246066826030027
+Q2622_C4		4		0.5591511960584721
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Q2624		42		Among the 4 mentioned cars which one is the best for personal use. Not for selling withn 4 years. It is for my family use only. I need all type of good options, and looking very good,etc
+Q2624_C1		1		0.5836400587109569
+Q2624_C2		1		0.5860408600887343
+Q2624_C3		1		0.5432795903927142
+Q2624_C4		1		0.6036316630478282
+Q2624_C5		4		0.5545749952197396
+Q2624_C6		1		0.6017995280208452
+Q2624_C7		1		0.5436895022048592
+Q2624_C8		1		0.5668468304853668
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Q2625		17		Can anybody help me on how to get rid of black warts in face and neck areas
+Q2625_C1		1		0.6388788230799253
+Q2625_C2		4		0.6279154794114504
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Q2626		16		Can Anyone tell me prices of new German cars in Qatar and deals available. Thanks
+Q2626_C1		4		0.5724159680315588
+Q2626_C2		4		0.6208027699898161
+Q2626_C3		4		0.6243622895370653
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Q2627		13		Do any one know company who can do Business plan and business research ?
+Q2627_C1		2		0.5976805038049324
+Q2627_C2		3		0.6033288056947224
+Q2627_C3		1		0.6238861215528121
+Q2627_C4		3		0.6289195929329509
+Q2627_C5		3		0.6033288056947224
+Q2627_C6		3		0.6414312347380504
+Q2627_C7		4		0.5729942155607528
+Q2627_C8		3		0.6424474244712407
+Q2627_C9		4		0.5888860590718603
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Q2628		48		Is there a Brazilian (male or female) in Doha who is willing to assist me in learning/speaking Brazilian language for say 1 hour per week? I am studying but need practice in pronunciation particularly. I am willing to pay a reasonable rate. Any willing helpers?
+Q2628_C1		2		0.5647266623334551
+Q2628_C2		1		0.5552089712945754
+Q2628_C3		4		0.5651328589129383
+Q2628_C4		1		0.59508182449995
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Q2629		14		can anybody help me to find the location of canara jewellery Thanks and regards
+Q2629_C1		1		0.5858084528485087
+Q2629_C2		3		0.6241465695060725
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Q2630		30		Please recommend a good place to buy plants: both outdoor ones for the garden and indoor ones in pots. If possible please give directions to the shop/market. Thanks!
+Q2630_C1		1		0.554020769427455
+Q2630_C2		1		0.6226891561651828
+Q2630_C3		1		0.6193760359412848
+Q2630_C4		1		0.6371996928825759
+Q2630_C5		4		0.6281586595773399
+Q2630_C6		4		0.6201629795344578
+Q2630_C7		1		0.5920182237664235
+Q2630_C8		1		0.5903506207649588
+Q2630_C9		4		0.6065366045167665
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Q2631		47		My daughter will be celebrating her 1st Birthday @ KFC this February. I am planning to bring food from outside to accommodate the adult visitors. Can you please recommend someone who can cater Filipino Food on that celebration and affordable one? Thanks in advance!
+Q2631_C1		3		0.5999982248842752
+Q2631_C2		1		0.5942649924560164
+Q2631_C3		3		0.5981989230244684
+Q2631_C4		1		0.6185720816233264
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Q2632		69		Anyone know of any decent used cars yards with a decent range of vehicles, from say yr 2003 onwards. I seem to only be able to find used car yards with nearly new cars at nearly new prices. Am looking for a SUV/4x4 2003 model onwards, four door models of Jeep, Land Rover, Toyota, Subaru, if anyone knows of something reasonable.
+Q2632_C1		1		0.5542552217197478
+Q2632_C2		1		0.5685409695353633
+Q2632_C3		1		0.5418827315084614
+Q2632_C4		1		0.6015299025622859
+Q2632_C5		1		0.5899304676917474
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Q2633		11		Which is a good bank as per your experience in Doha
+Q2633_C1		1		0.5713266358631359
+Q2633_C2		1		0.6258441796411005
+Q2633_C3		1		0.5854822890721016
+Q2633_C4		1		0.6455663029871145
+Q2633_C5		1		0.5590094611691391
+Q2633_C6		1		0.6273201479661814
+Q2633_C7		1		0.6355935797020433
+Q2633_C8		1		0.6438404516977294
+Q2633_C9		1		0.5806210885151654
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Q2634		19		What is the monthly cost of living in qatar for a family of 4? is 2000-3000$ considered enough?
+Q2634_C1		1		0.6313391027507724
+Q2634_C2		1		0.5757928384945884
+Q2634_C3		1		0.6248113752618668
+Q2634_C4		1		0.6249891070912457
+Q2634_C5		4		0.6404525843980909
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Q2635		25		Dear Users, I'm trying to register a .qa domain, what are the procedure and where from I register one. Thank you,
+Q2635_C1		1		0.542618909557803
+Q2635_C2		1		0.5430126547708026
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Q2636		73		Can you please share with me your experience in Aquapark. I would like also to confirm the following information: Entrance Fee : 100/head 3yrs old below: free Family of 6 : 400QR only (is this family of 6 or group of 6?) Opening Closing Time Is food allowed to bring inside? Appreciate also if someone can give me the direction on how to reach the place. Thanks in advance.
+Q2636_C1		1		0.54988263559488
+Q2636_C2		3		0.5300000861373668
+Q2636_C3		1		0.5978228978419674
+Q2636_C4		1		0.5509385350289248
+Q2636_C5		3		0.5312993655470264
+Q2636_C6		2		0.5274023331800964
+Q2636_C7		1		0.6105056058328729
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Q2637		38		I know it gets extremely hot there in the summer months. Does anyone know how hard it is to deal with the heat when you have asthma? Also is it dry heat or muggy and humid?
+Q2637_C1		2		0.5515217660362616
+Q2637_C2		3		0.6048758587258252
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Q2638		28		Who will be next prime minister of india? Please answer giving a reason. Who do you guys think should be the best in this difficult times?
+Q2638_C1		2		0.5712404908743189
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Q2639		67		Dear QL friends, my family left out of Qatar on 31st of January 2013 and plan to come back to Qatar on 28th of July 2013. (Their RP were renewed till may 2014 in January 2013). Is there any problem in the immigration at the airport because they are out of Qatar almost 6 month. Your advises are greatly appreciated. Thank you.
+Q2639_C1		1		0.5303281855951
+Q2639_C2		3		0.5303281855951
+Q2639_C3		3		0.5303281855951
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Q2640		24		Any idea who won the QTel draw? I didn't see it in any papers. Can anyone reply with a source? Thanks.
+Q2640_C1		4		0.5631883930687829
+Q2640_C2		1		0.5715211189379291
+Q2640_C3		2		0.5460073220931554
+Q2640_C4		4		0.6139515204311905
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Q2641		51		We are struggling to find a school place and are thinking of home schooling. Does anyone know anyone who does this in Doha? Does anyone know any activities that my children of primary age could do so they still meet people? (clubs, activities, extra classes etc)
+Q2641_C1		1		0.5646350621638507
+Q2641_C2		3		0.59288972905934
+Q2641_C3		3		0.5743509479284425
+Q2641_C4		3		0.5521703475307
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Q2642		51		My Wife is planning to come here in Qatar. She wants to be familiarized first with Labor Code of Qatar as per requisite in the Human Resources Services.. Can some body help me to secure a latest copy of Labor Code which is English translation.. Thanks
+Q2642_C1		1		0.5655719631308999
+Q2642_C2		1		0.5629983018157512
+Q2642_C3		4		0.6042598249720886
+Q2642_C4		1		0.5838230376529882
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Q2643		55		who is the founder of Qatar Living?how many members do we have right now? I mean total average active qlers,is there any shop in doha in which we can buy T-shirt,logo's,mugs or anything to recognize that we are part of this growing community,how about anniversary date of qatar living?
+Q2643_C1		2		0.514398074235649
+Q2643_C2		4		0.5346073349844893
+Q2643_C3		3		0.5961408310671119
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Q2644		13		Any one tell me how to drive to LU LU from TV RA
+Q2644_C1		1		0.6231147973780502
+Q2644_C2		1		0.6369715653224969
+Q2644_C3		1		0.643913211652693
+Q2644_C4		1		0.6492141275312396
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Q2645		28		Long ago, Men who sacrificed their love, youth, parents, identity, laughter and their happines were called SAINTS! Now they are called HUSBANDS!
+Q2645_C1		4		0.5456673682153854
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Q2646		18		Hello Friends, Please advise me, a lady can bring her husband in family visa in Qatar?
+Q2646_C1		1		0.6114013666230247
+Q2646_C2		4		0.6308948100290116
+Q2646_C3		1		0.6309954166118213
+Q2646_C4		4		0.6087430023530065
+Q2646_C5		4		0.5782221611613177
+Q2646_C6		1		0.6319759883470679
+Q2646_C7		3		0.5950050083620007
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Q2648		20		Is there a store in Doha that either sells the PS2 Slim modded or that can mod an existing PS2?
+Q2648_C1		1		0.6277416443585782
+Q2648_C2		4		0.597290416468994
+Q2648_C3		4		0.6280128034780986
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Q2649		78		I have been looking for months for a judo club. There's a federation here but when i contacted them they couldnt really tell me where i could find a club for my son. It seems that judo is taught here in schools but only for qataris! There must be a club somewhere in Doha that accepts non qataris. Does anyone know of a judo club, my son is 5 years old. thanks
+Q2649_C1		1		0.5725917006945833
+Q2649_C2		1		0.5412935411803251
+Q2649_C3		1		0.6109927499182352
+Q2649_C4		1		0.6122094183336328
+Q2649_C5		1		0.6250065480678856
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Q2650		35		Hi Guys Pls help me in knowing that i am presently on business visa , can i call my wife on family visit visa. If yes then kindly let me know the process.
+Q2650_C1		2		0.5288270500223079
+Q2650_C2		1		0.5826862022839789
+Q2650_C3		1		0.5772698150294827
+Q2650_C4		1		0.5931743816019909
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Q2651		19		I am planing to Buy a SLR camera.pls suggest a good one. My budget - QR- 2000/-
+Q2651_C1		3		0.5682426675242809
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Q2652		36		We now feel ready to explore Qatar and was wondering if anyone can suggest a sandy beach that's suitable for young children? Directions would be appreciated as we haven't been anywhere outside Doha. Thanks
+Q2652_C1		1		0.6237326309425939
+Q2652_C2		4		0.6099977085115912
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Q2653		30		Actually I'm not interested but a friend of mine is bothering, so where the heck are they giving tickets for this show? Is he really performing or what?
+Q2653_C1		1		0.5654488809630313
+Q2653_C2		1		0.5517340424831575
+Q2653_C3		4		0.5602767983451008
+Q2653_C4		3		0.6274828239450786
+Q2653_C5		1		0.5654488809630313
+Q2653_C6		2		0.5654488809630313
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Q2654		23		which is the best place to walk or jogg in qatar? ofcos corniche is there but isnt there anything quieter and calmner??
+Q2654_C1		1		0.5846181788904049
+Q2654_C2		1		0.5653350478668819
+Q2654_C3		2		0.6120776568608701
+Q2654_C4		2		0.5750409326815785
+Q2654_C5		3		0.6253184422557178
+Q2654_C6		1		0.5666121662347051
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Q2655		80		Hi all, I am seriously considering moving to Qatar. I've just finished my PhD in civil engineering (Geotechnics), I have only 1 year experience. I am German. How much should I expect in Qatar now? Do you think it is better if I work here in Germany for like 5 years before i relocate? Starting salary for civil engineers in Germany is about 10000 QR, so not really much! Best regards
+Q2655_C1		2		0.5952461849890758
+Q2655_C2		3		0.5998826794315036
+Q2655_C3		3		0.5965485376448821
+Q2655_C4		4		0.6169161552878238
+Q2655_C5		4		0.6214500853162744
+Q2655_C6		2		0.5790667022495846
+Q2655_C7		1		0.5877760812866765
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Q2656		28		What do you think about it? After paying for the membership fee, we still have to pay for the entrance fee. Is it fair enough?
+Q2656_C1		4		0.5783090039247092
+Q2656_C2		2		0.6195948567575897
+Q2656_C3		2		0.6184395633781227
+Q2656_C4		4		0.6082619067949789
+Q2656_C5		2		0.6119797023223662
+Q2656_C6		2		0.564022524130677
+Q2656_C7		2		0.6219023281742557
+Q2656_C8		2		0.6190544558406738
+Q2656_C9		1		0.6249109213700594
+Q2656_C10		3		0.6035508776814117
+Q2656_C11		1		0.6452141180664642
+Q2656_C12		2		0.6201015065477883
+Q2656_C13		2		0.6233160830728016
+Q2656_C14		2		0.5964643840444408
+Q2656_C15		2		0.6160589108784297
+Q2656_C16		1		0.6168763651315001
+Q2656_C17		2		0.6165060286167329
+Q2656_C18		2		0.6143632839692866
+Q2656_C19		2		0.6162020634565992
+Q2656_C20		2		0.6081462131304768
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Q2657		37		All you sinners come and confess on this thread or go and post on 'I'am not a Stupid QLer Thread' My confession - I love cookies more than the chocolates and my parents don't know about it.
+Q2657_C1		3		0.5891410994806243
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Q2658		80		Hi, I will arrive from Montreal to stay with my family in aamal tower in WestBay and would like to Know if there a Tunisian/Arabic or French Daycare in Doha and better if it is close to the WestBay area and also it helps to know how much tuition fees it costs for 4 years and 8 months old boy. Also, is it too late to register for daycare In Qatar if I arrive around October 1st ?
+Q2658_C1		1		0.5579658472742562
+Q2658_C2		1		0.6102809098410481
+Q2658_C3		4		0.5498552027638647
+Q2658_C4		0		0.6037758381135669
+Q2658_C5		1		0.6149386432260903
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Q2659		47		We are moving to Doha in the new year. Someone mentioned you are not 'allowed' to have pictures of living things in your home. Is this right? Do i leave paintings of living things (even animals?) at home? What can I expect?
+Q2659_C1		1		0.58463114599866
+Q2659_C2		1		0.54905485146307
+Q2659_C3		1		0.6264734472129128
+Q2659_C4		1		0.622156383183113
+Q2659_C5		2		0.5732827231141567
+Q2659_C6		1		0.6192300922564985
+Q2659_C7		1		0.5761022672099829
+Q2659_C8		3		0.6027807736854932
+Q2659_C9		1		0.617900351188102
+Q2659_C10		4		0.545409773645482
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Q2660		28		I am loooking into hiring a car with a driver, have heard some agencies here in DOha do it...any tips?? Many thanks
+Q2660_C1		1		0.6557949752159016
+Q2660_C2		1		0.5926381724882163
+Q2660_C3		1		0.6092803810773738
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Q2661		15		Is there any website to watch India-Pak cricket match online. Thank you very much.
+Q2661_C1		1		0.6372308608493474
+Q2661_C2		1		0.5483669428285133
+Q2661_C3		1		0.5483669428285133
+Q2661_C4		4		0.5835579516234916
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Q2662		36		Hai Friends........ Any one knows the location of watar theme park in qatar, Is it beatiful? childrens have enough ride?? and howmuch fee Thanks
+Q2662_C1		1		0.5931790625734837
+Q2662_C2		1		0.5855108894918788
+Q2662_C3		4		0.600956009599486
+Q2662_C4		1		0.6166641290864479
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Q2663		9		how much it will cost for a visit visa
+Q2663_C1		3		0.6084759908840794
+Q2663_C2		4		0.6439975413199279
+Q2663_C3		4		0.5668903533402367
+Q2663_C4		4		0.6267917904221806
+Q2663_C5		1		0.6026381567424485
+Q2663_C6		1		0.6247484586381802
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Q2664		44		If you could invite 10 people, ANYONE, famous, historical person, sport star , actor, etc. dead or alive (they would be alive for your party) to your home for dinner, who would you invite and why?
+Q2664_C1		2		0.5899270174383178
+Q2664_C2		2		0.6069849909538387
+Q2664_C3		3		0.6411323081014677
+Q2664_C4		4		0.5800587602187587
+Q2664_C5		1		0.549411329858691
+Q2664_C6		1		0.600892638820776
+Q2664_C7		1		0.6216487149503485
+Q2664_C8		1		0.6144546635914071
+Q2664_C9		1		0.5978316203438967
+Q2664_C10		2		0.5421556218902854
+Q2664_C11		1		0.5555118103144144
+Q2664_C12		2		0.5642382567086786
+Q2664_C13		1		0.5824955132145785
+Q2664_C14		1		0.5970008296629269
+Q2664_C15		1		0.596842435371545
+Q2664_C16		1		0.5773185151803819
+Q2664_C17		1		0.544112256165308
+Q2664_C18		1		0.5921231699706209
+Q2664_C19		3		0.5743802830544071
+Q2664_C20		1		0.5738162219324356
+Q2664_C21		4		0.6091105741561357
+Q2664_C22		4		0.5732070599648001
+Q2664_C23		4		0.5457734808180119
+Q2664_C24		4		0.5646437704525488
+Q2664_C25		4		0.5794829315797078
+Q2664_C26		1		0.6263062640523047
+Q2664_C27		1		0.6031877180420624
+Q2664_C28		1		0.608526459246404
+Q2664_C29		2		0.556620754195934
+Q2664_C30		2		0.5521368133166705
+Q2664_C31		2		0.5651982216610213
+Q2664_C32		2		0.5659989859916552
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Q2665		17		I know Katara is having fireworks during Eid but what else is going on during the holidays?
+Q2665_C1		4		0.5411383844319332
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Q2666		72		I was just wondering whether or not Xbox 360 games sold in Qatar were NTSC or PAL? The reason is I own a PAL console and so hopefully Qatar games are in PAL. PS. If you own some games brought from Qatar and don't know you can just check the back of the box and see whether or not it says PAL or NTSC. Thanks in Advance :)
+Q2666_C1		1		0.5778440327147033
+Q2666_C2		1		0.5378518131240565
+Q2666_C3		1		0.581906393682989
+Q2666_C4		1		0.5590635401475963
+Q2666_C5		1		0.5277152460324612
+Q2666_C6		4		0.5553965012976181
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Q2667		80		today morning im in the office there is a new number calling in my phone, i did not heared because my phone is divert.I call that number one man he answered and he asked my ID number. I ask him why he want my number?he not answer me and he refuse it.how many times i call that number but always the line is busy. anybody can tell me from which company this number +923464606462?
+Q2667_C1		1		0.5836989682038874
+Q2667_C2		1		0.5562319541744464
+Q2667_C3		2		0.5259711108304053
+Q2667_C4		4		0.5462548756320255
+Q2667_C5		4		0.5697199782871951
+Q2667_C6		1		0.5595669343769927
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Q2668		24		I wish to take my Car(Toyota corolla 2003) to india, is it expensive? can any body explain what are the procedures please?
+Q2668_C1		1		0.6256304056092679
+Q2668_C2		3		0.5846509784748551
+Q2668_C3		1		0.5724689501807076
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Q2669		23		Hi, Does anybody know where I can buy a fairly large 'Welcome Home' sign to string up on a wall? Thanks!
+Q2669_C1		2		0.6194158073758627
+Q2669_C2		1		0.6303642716695973
+Q2669_C3		2		0.5831800878117118
+Q2669_C4		1		0.5695252872139871
+Q2669_C5		4		0.6314177233759755
+Q2669_C6		1		0.6131441032364203
+Q2669_C7		4		0.5952499416154854
+Q2669_C8		3		0.6016479454236987
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Q2670		26		Hello Can any one answer me!!! Dual/Double Sim card mobile can be used in Qatar? Does Qtel have any policy regarding this?
+Q2670_C1		1		0.6124368004154622
+Q2670_C2		1		0.6125763421949545
+Q2670_C3		1		0.6295298450580779
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Q2671		89		Everyone was seated around the table as the food was being served. When little Logan received his plate, he started eating right away. "Logan, wait until we say our prayer," his mother reminded him. "I don't have to," the little boy replied. "Of course you do," his mother insisted, "we say a prayer before eating at our house." "That's at our house," Logan explained, "but this is Grandma's house and she knows how to cook."
+Q2671_C1		2		0.533300168412774
+Q2671_C2		2		0.533300168412774
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Q2672		6		What do you think of it?
+Q2672_C1		2		0.6387495446367799
+Q2672_C2		2		0.6387495446367799
+Q2672_C3		1		0.6387495446367799
+Q2672_C4		2		0.6387495446367799
+Q2672_C5		2		0.6387495446367799
+Q2672_C6		2		0.6387495446367799
+Q2672_C7		2		0.6389366679492222
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Q2673		21		Will miss you all. Have a great time as always. All the Best. God Bless. Signing Out.
+Q2673_C1		2		0.6066543767429502
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Q2674		23		I would like to buy a new or secondhand piano (NOT an organ). Does anyone know where to get one in Doha?
+Q2674_C1		1		0.6285424705480734
+Q2674_C2		1		0.6291046976785848
+Q2674_C3		4		0.5764836344040182
+Q2674_C4		1		0.6298635709680966
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Q2675		11		I need help to contact American or Baptist Churches in Doha
+Q2675_C1		4		0.6300226334744373
+Q2675_C2		1		0.6347579763336947
+Q2675_C3		1		0.6422799205368255
+Q2675_C4		1		0.6497816614442925
+Q2675_C5		4		0.628492435496187
+Q2675_C6		4		0.6277960146738458
+Q2675_C7		1		0.6120782468447601
+Q2675_C8		3		0.6259481059912072
+Q2675_C9		4		0.6055004760536227
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Q2676		58		I'm going to Madrid tomorrow! With my lovely Wife and my Mother in law, who is also lovely. We are meeting with a very cultured friend who's Lady friend lives there so he visits the city regularly and knows the city like the back of his hand. Should be great. Wish me luck.
+Q2676_C1		4		0.5302437132533581
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Q2677		50		Hi, I am coming on tourist Visa, while waiting to get my residence permit. Can I drive using an international driver licence and for how long?? (I found some old info on this but want to get an updated picture)..thank you very uch.
+Q2677_C1		2		0.5475285533585774
+Q2677_C2		1		0.5971931315466966
+Q2677_C3		3		0.5915437125054753
+Q2677_C4		1		0.5764443056941194
+Q2677_C5		1		0.6034019610600122
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Q2678		31		Does anyone know if there is a dog kennel/hotel in Qatar, where we can have someone to look after our dogs, when we go on vacation? Best regards..
+Q2678_C1		3		0.5753801187407376
+Q2678_C2		1		0.5824039837531874
+Q2678_C3		1		0.5727158649002762
+Q2678_C4		3		0.6131633359761579
+Q2678_C5		1		0.5678352263545533
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Q2679		51		i have a male gray persian cat and im travelling for two monthes and i need to leave it in any place if some one can pls take good care of him for taking not more than 600 riyals per 2 months pls answer is u are interested pls call 4474065
+Q2679_C1		4		0.5579335135295923
+Q2679_C2		1		0.6302695008788995
+Q2679_C3		1		0.6237468850834879
+Q2679_C4		4		0.5203887438408551
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Q2680		42		I hv installed smartvoip and for that i think i need to buy some card to make call... do we have agents in qatar from whom i can buy it. Is it legal to use it? Thanks
+Q2680_C1		1		0.5881827992182889
+Q2680_C2		1		0.602002391877728
+Q2680_C3		1		0.5789706630143538
+Q2680_C4		1		0.583395486619959
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Q2681		59		Hi, I am currently looking for a security based job in Qatar. As an ex British soldier, I can adapt and learn very easily and with my past experience I will be looking for a reasonable salary. Can anyone recommend any companies that I can apply to please? Any help would be really appreciated.
+Q2681_C1		4		0.6110730105378243
+Q2681_C2		3		0.5779024372783392
+Q2681_C3		3		0.599744528620033
+Q2681_C4		4		0.5802018823573027
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Q2682		52		What is the point? What is in it for the ones that get there? Let's leave the purpose of hell for another thread. I invite you to ponder. You can quote scripture or Sura's etc if you want but you must expand upon them with your own thoughts.
+Q2682_C1		4		0.6033680277860168
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Q2683		55		how much i must pay for a driver that lives in muaither, he will pick me with his car from my house in(muaither) to school in (new rayyan) then from school to my house. 24-25 days in the month plz i dont have any idea about drivers and transportation how much monthly pay??????????
+Q2683_C1		1		0.5185113787645004
+Q2683_C2		3		0.5728065305935722
+Q2683_C3		1		0.5285893273146819
+Q2683_C4		1		0.5405651358705054
+Q2683_C5		4		0.5285893273146819
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Q2684		61		How can one check the history of the car like maintenance, accident or service history. In every advertisement of the car, people used to write "Accident Free", but in most cases, car have at least one or two accident, which is not easily detectable through Car Inspection Company. Share your opinion in this regard.
+Q2684_C1		2		0.5665716849285476
+Q2684_C2		3		0.6269441504129772
+Q2684_C3		1		0.5761903202589389
+Q2684_C4		1		0.566433383022893
+Q2684_C5		1		0.5674919651249418
+Q2684_C6		1		0.6035937897755876
+Q2684_C7		4		0.6080060999430984
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Q2686		67		I am a male nurse,passed qatar prometric exam and my dataflow is on process in SCH. I got an offer from an employer,but i am having doubt that whether i can start my work or not?What are all the next steps i have to do?If anyone can clarify my doubt,it will be very helpfull for me. thank you in advance.....!
+Q2686_C1		4		0.5687314100767158
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Q2687		12		More handsome and attractive? who? Pakistani guys or Indian guys....
+Q2687_C1		2		0.6250841037577102
+Q2687_C2		2		0.6368230405749153
+Q2687_C3		1		0.624525502224163
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Q2689		13		What is the best place now in Qatar to spend the Eid holidays
+Q2689_C1		2		0.6131281274987962
+Q2689_C2		1		0.6067020540496662
+Q2689_C3		2		0.5799633424927143
+Q2689_C4		2		0.5911833127427714
+Q2689_C5		1		0.6205800782973973
+Q2689_C6		2		0.5705333714063626
+Q2689_C7		1		0.6225280786589036
+Q2689_C8		1		0.5391673817174819
+Q2689_C9		1		0.6238574426098533
+Q2689_C10		2		0.6189561582819327
+Q2689_C11		2		0.6140385774716499
+Q2689_C12		1		0.6229381892441078
+Q2689_C13		2		0.6159403076786077
+Q2689_C14		2		0.6228084491794549
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Q2691		25		fell in love with samsung s3 today,what a beauty! Should i buy it or wait for iphone 5? What do u suggest?
+Q2691_C1		4		0.6074234782550593
+Q2691_C2		1		0.6106885077005254
+Q2691_C3		1		0.5938615107628825
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Q2692		58		I keep hearing of a company that gives you a stateside or England address and you can order items and have them shipped to this address. They will then forward it to us here. I think is is called Amermex but I can't seem to find the company on the web. Any help out there?
+Q2692_C1		1		0.5306569878542255
+Q2692_C2		2		0.5970517541219349
+Q2692_C3		1		0.6210977525735601
+Q2692_C4		4		0.5691175414014481
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Q2693		31		. What would you do if you find out that the gift that you have given to someone was put on sale at the classified with a label "unwanted gift"? .
+Q2693_C1		0		0.6338612414431386
+Q2693_C2		4		0.6218016468667861
+Q2693_C3		3		0.6294577386962061
+Q2693_C4		2		0.5753703205052937
+Q2693_C5		4		0.513121954535633
+Q2693_C6		1		0.5857778911019567
+Q2693_C7		3		0.6100350926327888
+Q2693_C8		1		0.6286114379207484
+Q2693_C9		1		0.6215026911497253
+Q2693_C10		1		0.5615417651468012
+Q2693_C11		1		0.6218168679684867
+Q2693_C12		1		0.5869056104486027
+Q2693_C13		1		0.6419948955779747
+Q2693_C14		1		0.6326113696994067
+Q2693_C15		2		0.6200628970781715
+Q2693_C16		1		0.6286077133420818
+Q2693_C17		1		0.5652544950431821
+Q2693_C18		4		0.61046494557009
+Q2693_C19		3		0.6237253653649474
+Q2693_C20		2		0.619359823562121
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Q2694		18		hi....anyone doing pakistani facials in doha....my wife wants to know.........
+Q2694_C1		1		0.6024006231792169
+Q2694_C2		4		0.5906451361750101
+Q2694_C3		1		0.6196774980570614
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Q2695		16		Can anybody advice on the best and resonable Indian Scool in Doha.How to get admission.
+Q2695_C1		1		0.610934512643059
+Q2695_C2		3		0.5965702487132682
+Q2695_C3		1		0.5463791547290658
+Q2695_C4		1		0.634233877420044
+Q2695_C5		1		0.6348622336035706
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Q2696		37		Can anyone help me to give me a technician's contact number to fix my dish anteena problem, I lost connection due to last days rain, I tried a lot yesterday but I could't fix myself.
+Q2696_C1		1		0.5504674553771483
+Q2696_C2		1		0.5401550266124566
+Q2696_C3		4		0.6018391672355674
+Q2696_C4		1		0.6262555095923064
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Q2697		36		Hi there, Does any of you know what are the criteria/requirements for a women to sponsor her husband in Doha? There is a minimum salary, it is possible, etc.? Thanks!
+Q2697_C1		1		0.6176756309967532
+Q2697_C2		3		0.6183152025743482
+Q2697_C3		1		0.6212729803301614
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Q2698		35		Hi, I'm planning to buy a car, which is better honda civic or hyundai santa fe, both 2011 model? Just new here in Qatar. Could you pls give some feedback/reviews?
+Q2698_C1		3		0.5184059332875486
+Q2698_C2		3		0.5697336635472644
+Q2698_C3		1		0.5966872340629262
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Q2699		36		It is almost impossible to go to Souq Waqif now a days in the evening and expect to find a parking place. Does anyone know when these Celebration events in the Souq Waqif will end?
+Q2699_C1		4		0.549551602450983
+Q2699_C2		1		0.5747949869769042
+Q2699_C3		1		0.5754373337529699
+Q2699_C4		1		0.5554542149183163
+Q2699_C5		2		0.549551602450983
+Q2699_C6		1		0.5423940014340134
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Q2701		95		i had an appointment with doctor for pregnancy problem,i mean problem in concieving.......doc told me that i have PCOS..is this condition very dangerous.has she given me the medicine glucophage for that?bcoz after taking that i do not have hunger.....i feel full everytime........or is this a hunger reducing tablet,i am overweight toooo much...will this tab help me loose weight.... please help. thanx
+Q2701_C1		4		0.5541432158955266
+Q2701_C2		3		0.5368847548745262
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Q2702		27		I wish to admit my kid to one of the Indian schools in Qatar. Which is better, DPS or Santhinekethan? Please post your comments.
+Q2702_C1		1		0.6343686406200593
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Q2703		49		Good day everybody, I am looking for an outsourcing company that will manage the accounting function within our company. It is common practice in the UK and I was wondering if the service was also available here. Thanks in advance for any replies. Regards Enufoo
+Q2703_C1		3		0.5502089398714153
+Q2703_C2		1		0.5883237155844352
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Q2704		34		Where can we find establishments here in Qatar who offers Prometric Examination for nurses? A license that must secure to those seeking for an hospital employment. Waiting for your answers.Thank you.
+Q2704_C1		1		0.591816817038345
+Q2704_C2		3		0.6141799884647918
+Q2704_C3		1		0.6227328962308628
+Q2704_C4		1		0.5418430303721726
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Q2705		31		Hi Apple, Can you help me, I am a electrical engineer and a hepatitis b carrier, I would like to work in Qatar,can I get resident visa?
+Q2705_C1		4		0.6120094671807256
+Q2705_C2		1		0.6181567324403081
+Q2705_C3		2		0.5327933232125316
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Q2706		74		Hello Everybody! Just want to know whether I can change or take a new admission in a other Driving school if I had taken admission priviously in a different driving school. One of my friend told me that if once i take a admssion in a driving i cannot change the school anymore even though my test are over . Please need your help in this regard. Thanks In Advance.
+Q2706_C1		1		0.564755924065068
+Q2706_C2		3		0.5878746781288438
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Q2707		59		Hi, can someone provide a link to post office locations in the Qatar or specifically tell me where the Hilal locations are. Btw, is mail reliable to North America from Qatar or does one need to register the mail at the post office as in done in Kuwait for mail to reach its destination? thanks!
+Q2707_C1		1		0.5575474130383026
+Q2707_C2		1		0.6082911975000479
+Q2707_C3		1		0.5370596455883601
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Q2709		27		What about Chevrolet Aveo cars in Qatar Market. is it expencive or not in maintanance? I mean spare parts and repare,also in resale value
+Q2709_C1		3		0.5534056872065511
+Q2709_C2		1		0.6261353618789648
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Q2710		57		We brought our Panasonic 5 gigahertz cordless phones with us from the U.S. and charge them via transformers. They work OK, but not great. Anytime I walk upstairs I lose the signal. Do *any* cordless phones work well in these concrete block homes? Any thoughts? thanks, Expat Sueo
+Q2710_C1		1		0.5730192169647613
+Q2710_C2		4		0.5445426919878028
+Q2710_C3		3		0.5883544518965728
+Q2710_C4		4		0.5380932619100317
+Q2710_C5		4		0.5380932619100317
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Q2711		23		Anybody know where the Royal Wedding will be shown at? I mean, which TV channel and what time? Thanks before!
+Q2711_C1		1		0.5939766525470855
+Q2711_C2		1		0.6107945918042869
+Q2711_C3		3		0.5414157549214134
+Q2711_C4		1		0.6014263281088146
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Q2712		18		Does anyone know where can I find scrap power steering pump? Any specific place in Industrial area??
+Q2712_C1		1		0.6374689121595158
+Q2712_C2		4		0.6087951669637987
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Q2713		11		how many of you logon to QL after your working hours?
+Q2713_C1		2		0.6234172338755886
+Q2713_C2		2		0.5454578937833439
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Q2714		22		Since 2002 I am working with same sponsor .Any one can tell me that how I can change to another company
+Q2714_C1		3		0.5998304572115816
+Q2714_C2		4		0.6047951577807115
+Q2714_C3		3		0.6011498350325083
+Q2714_C4		3		0.6267335253034209
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Q2715		39		At October - November in Doha, there will be transition from summer to winter. There will be a lot of Thunder / Lightning / Flash. How to Calculate The Distance between us to The Thunder Light ?
+Q2715_C1		1		0.6379898231101196
+Q2715_C2		1		0.5683472117671837
+Q2715_C3		2		0.6064013213221219
+Q2715_C4		3		0.5879916820408594
+Q2715_C5		2		0.5656484369979734
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Q2718		41		Hello everybody, I'm looking for a 2nd hand guitar here in quatar, I'm a beginner so I don't need a really good one, but just one in order to practice usually. Thank you and regards, Kidi
+Q2718_C1		4		0.59338505197872
+Q2718_C2		4		0.5963744497320844
+Q2718_C3		1		0.6041085310881961
+Q2718_C4		3		0.5814477961542097
+Q2718_C5		1		0.5599754644970082
+Q2718_C6		1		0.5673220877584851
+Q2718_C7		4		0.6119035031390029
+Q2718_C8		4		0.6194197533380879
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Q2720		85		i don't use much qatar living, but still i visit daily.. ;) just reading forums, comments.. and some time i comment also.. always tried not to miss comment of pajju, britexpat.. cox the one was funny and other is too much informative and well mannered... but now the question is that where is Pajju.. long time i didnt saw any comment of him.. is he alright???
+Q2720_C1		2		0.5526174291911456
+Q2720_C2		2		0.5526174291911456
+Q2720_C3		2		0.5526174291911456
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Q2721		67		Hi, please advice me, my company terminated me,then they are ready to give Noc if i got new job. the problem is i having a car loan and credit card payment,, what is the procedure?i am searching for new job..any problem to change sponsorship? Please help me to give right answers.. Thanks and Best regards
+Q2721_C1		1		0.6076902306519646
+Q2721_C2		1		0.6038840755807692
+Q2721_C3		1		0.6097280435485266
+Q2721_C4		4		0.5960999136042129
+Q2721_C5		1		0.6152192074966641
+Q2721_C6		1		0.6248087155402428
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Q2722		14		where is the best drinking in qatar for americans men looking to meet women?
+Q2722_C1		2		0.6285018888148706
+Q2722_C2		2		0.6145658899755516
+Q2722_C3		1		0.5607658696241443
+Q2722_C4		1		0.6037567462674399
+Q2722_C5		4		0.6298728081203494
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Q2723		14		Please let me know the exact place to get a Parker pen(Gold colour) Thanks
+Q2723_C1		1		0.6096351661596464
+Q2723_C2		4		0.5619863056287621
+Q2723_C3		1		0.5697831122604142
+Q2723_C4		1		0.6262372424195066
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Q2724		25		"Home centre" or "Homes r US" ? Furniture price wise, which one is offerring lower price? And quality wise which is better?
+Q2724_C1		1		0.6152935013524737
+Q2724_C2		1		0.623326378969316
+Q2724_C3		1		0.6411794042795776
+Q2724_C4		1		0.6505454753558098
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Q2727		44		dear all, who knows very regarding the visa procedure, i am going to bring my mother-in-law for next month so what are all document to submit in the embassy to get the visit visa or tourist visa. give me good reply.
+Q2727_C1		1		0.6160197291316145
+Q2727_C2		4		0.5825783135592887
+Q2727_C3		1		0.6247062204175418
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Q2728		22		i want to buy new mobile.... and i want to know which mobile is best is under 2000QR....
+Q2728_C1		1		0.6025189471299219
+Q2728_C2		1		0.5939814709562352
+Q2728_C3		3		0.6254750266513167
+Q2728_C4		3		0.6153334639558732
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Q2729		77		Rescently we shifted to a new room, because we are looking for a better one... but unfortunately, there we got our tiny friends called d' BED BUGS!!! we can deal with cockroaches but these, this was our worst nightmare... I just want to know if what the ways that i can get rid of these BED BUGS effectively? any suggestions will be willingly accepted.
+Q2729_C1		1		0.5410110655000119
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Q2730		79		I am new lady driver and today is my first drive from home to office. When I was driving home, at the CID office junction, the green light was blinking when I already driving through about 2 meter when the light turn yellow then red. Am I gonna get fine QR6000 for this ??? Please your kind advise if you ever had this experience. Thank you so much. Nervous Mom
+Q2730_C1		1		0.584387681643619
+Q2730_C2		1		0.5395145745435685
+Q2730_C3		1		0.6029309260288357
+Q2730_C4		1		0.539623681264936
+Q2730_C5		1		0.5519226970818663
+Q2730_C6		1		0.5771976558429852
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Q2731		34		Hi there, does anybody work for the company called ETA STAR i am due to start for them in jan as a project manager. just some feedback would be great cheers al
+Q2731_C1		2		0.5590910462491694
+Q2731_C2		1		0.6235031752774024
+Q2731_C3		1		0.6323945409067105
+Q2731_C4		2		0.5706877899574323
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Q2732		53		My husbands contract will be terminated soon. i am currently on his sponsership( dependant visa) working in senior position. can i sponser him and my children if my company agrees to change my sponsership from his to company,s ? What is the procedure for this? kindly reply thanks
+Q2732_C1		1		0.6205186018094658
+Q2732_C2		1		0.5854201993310542
+Q2732_C3		1		0.603688297355454
+Q2732_C4		1		0.6224966037494942
+Q2732_C5		1		0.5379420346988908
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Q2734		9		Does anyone know of a good OBGYN in Doha
+Q2734_C1		1		0.6489158510234138
+Q2734_C2		1		0.6328407345730777
+Q2734_C3		1		0.6374226009842053
+Q2734_C4		4		0.6295889074014831
+Q2734_C5		1		0.6402143908449036
+Q2734_C6		3		0.6281361117672201
+Q2734_C7		1		0.646004685691847
+Q2734_C8		4		0.5517771145829434
+Q2734_C9		1		0.6374984110301127
+Q2734_C10		3		0.6342911027926208
+Q2734_C11		4		0.6259987423576667
+Q2734_C12		4		0.6009345729457602
+Q2734_C13		1		0.6391863504211526
+Q2734_C14		4		0.639593965030092
+Q2734_C15		1		0.6434235451588052
+Q2734_C16		1		0.6377407025643879
+Q2734_C17		3		0.6262068925758483
+Q2734_C18		4		0.6444888696800694
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Q2735		53		Where can I find Doha fridge magnets (Obviously the one with the word 'Doha' or 'Qatar' printed on it)? I've been collecting fridge magnets from countries I've been to but unfortunately I haven't had any success looking for this kind, not even in Qatar Duty Free. Any idea? (:
+Q2735_C1		1		0.5793952097340412
+Q2735_C2		1		0.5549918115329874
+Q2735_C3		1		0.6242468583881985
+Q2735_C4		1		0.56299893858313
+Q2735_C5		1		0.6088057267952691
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Q2736		56		hello eveybody, I am planning to come to Doha in late august early sep bcz my fiancee has a job there. Im a trained english language teacher and would like to find out where I could find some employment in the city ..... any advice will greatly be appreciated
+Q2736_C1		3		0.5427826894771522
+Q2736_C2		2		0.5532645294941995
+Q2736_C3		2		0.5724893782222329
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Q2737		8		eye contact leads an spark to your heart.....
+Q2737_C1		4		0.6284582853886398
+Q2737_C2		2		0.6284582853886398
+Q2737_C3		2		0.6284582853886398
+Q2737_C4		4		0.6284582853886398
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Q2738		35		Are there many Russians, Georgians, Ukrainians or any guys from USSR live in Qatar? Are in Qatar Russian school ? If any one have information, please advise me. Thanks
+Q2738_C1		1		0.602681163269198
+Q2738_C2		2		0.5698911902058683
+Q2738_C3		2		0.614025023312898
+Q2738_C4		1		0.6253963063486068
+Q2738_C5		1		0.6122666031566659
+Q2738_C6		3		0.5713401444576242
+Q2738_C7		2		0.5911267335325542
+Q2738_C8		4		0.5752034699283143
+Q2738_C9		1		0.6126515712409456
+Q2738_C10		3		0.6137747375813534
+Q2738_C11		4		0.5557034711843032
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Q2739		56		My son studies in DPS MIS in Nursery and I would like to know that when will their summer vacations starts so that I can make my back home trip plans accordingly..just a tentative idea I need..I contacted school but they are not disclosing it..I am very new in Qatar.
+Q2739_C1		2		0.5786024634374667
+Q2739_C2		4		0.5960584218988347
+Q2739_C3		1		0.570897759582208
+Q2739_C4		2		0.5651824326305172
+Q2739_C5		2		0.5632933222481171
+Q2739_C6		2		0.549659729707308
+Q2739_C7		2		0.5361378574984491
+Q2739_C8		1		0.5913980401855716
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Q2740		24		hello does anybody know where to find paint (to paint the walls inside my house) in Doha ? thanks for your help S
+Q2740_C1		1		0.6120297284664898
+Q2740_C2		1		0.6236591870425643
+Q2740_C3		1		0.6078849432403195
+Q2740_C4		4		0.5588706845862363
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Q2742		27		How safe is it to download stuff from torrents here? Do the internet providers keep a track of data/movies or anything at all that we download?
+Q2742_C1		3		0.6241882036553562
+Q2742_C2		4		0.6138092037269077
+Q2742_C3		2		0.618057410387921
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Q2743		16		hey guys, anybody who knows the requirements for the affidavit of support in philippine embassy?
+Q2743_C1		4		0.6333405380670604
+Q2743_C2		1		0.6328191199592421
+Q2743_C3		4		0.6319673690868335
+Q2743_C4		1		0.6271930993826516
+Q2743_C5		4		0.6333788668436421
+Q2743_C6		1		0.6348046855008045
+Q2743_C7		1		0.6300209214508764
+Q2743_C8		1		0.6357069788921224
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Q2745		19		ideally looking at budget of around Qr100,000, and should be good for off road. Any ideas?
+Q2745_C1		2		0.5848175260423896
+Q2745_C2		1		0.5848175260423896
+Q2745_C3		1		0.6274488032226698
+Q2745_C4		1		0.6327183274789207
+Q2745_C5		1		0.6284802339408359
+Q2745_C6		1		0.6331095173869435
+Q2745_C7		1		0.6143764885879143
+Q2745_C8		1		0.6038563517410465
+Q2745_C9		3		0.634239361120608
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Q2746		72		Let me know from the user of 'TATASKY receiver', whether they face any problem with the signal quality during the day time. Now-a-days, in the day time the signal is so weak for the TATASKY RECEIVER. Do you all face the same problem or the signal is good for you in day time? If the signal is good, please suggest a technician for me. Regards/RK
+Q2746_C1		3		0.5752490907618548
+Q2746_C2		4		0.5499800154855957
+Q2746_C3		1		0.5946214251918647
+Q2746_C4		4		0.59362226668683
+Q2746_C5		1		0.6282883757948414
+Q2746_C6		1		0.6036500292164948
+Q2746_C7		1		0.6142271858197196
+Q2746_C8		4		0.5890472985486104
+Q2746_C9		1		0.6111776957477113
+Q2746_C10		4		0.5869285728749308
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Q2748		22		Which car company has a good after sale service and strong customer support? Kindly advice as per your experienced. Thanks,
+Q2748_C1		1		0.5780866395626598
+Q2748_C2		1		0.5503359271828567
+Q2748_C3		1		0.6040044920468067
+Q2748_C4		1		0.6025712441731792
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Q2749		15		Does anyone know where I can get a turkey from. I have tried Mega-mart.
+Q2749_C1		1		0.6120371559393264
+Q2749_C2		1		0.6129110008478836
+Q2749_C3		1		0.5736663307033747
+Q2749_C4		1		0.6197852686797518
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Q2751		28		Could you please advice shops in Doha to get some outfit for fancy dress party in... Got not much time till weekend really. Ta!
+Q2751_C1		1		0.6132214216942293
+Q2751_C2		3		0.6132214216942293
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Q2752		18		Are the items inside Doha airport (Duty Free) cheaper compared to those that are sold inside the malls?
+Q2752_C1		2		0.6258067645714868
+Q2752_C2		1		0.6325733888706416
+Q2752_C3		1		0.6240522292190539
+Q2752_C4		1		0.6262978427586148
+Q2752_C5		3		0.6201401814319782
+Q2752_C6		1		0.5930498069804437
+Q2752_C7		3		0.6226464376674222
+Q2752_C8		1		0.6262245210928131
+Q2752_C9		1		0.6308620548412981
+Q2752_C10		2		0.5525055547910779
+Q2752_C11		1		0.6278635003266736
+Q2752_C12		2		0.6190285546704095
+Q2752_C13		1		0.6171356085461182
+Q2752_C14		2		0.6347082274365181
+Q2752_C15		1		0.5406728993069937
+Q2752_C16		1		0.6317358127642033
+Q2752_C17		1		0.6325773465460677
+Q2752_C18		1		0.6210460208364015
+Q2752_C19		1		0.6134619343328543
+Q2752_C20		1		0.6238244607520682
+Q2752_C21		2		0.6203393903422302
+Q2752_C22		1		0.6321379209195214
+Q2752_C23		1		0.6291070228658373
+Q2752_C24		1		0.6374566710210959
+Q2752_C25		1		0.6268810273366935
+Q2752_C26		1		0.6076391966772486
+Q2752_C27		1		0.6287298667852415
+Q2752_C28		1		0.6195919496909933
+Q2752_C29		1		0.601761577594753
+Q2752_C30		1		0.5950241755027319
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Q2753		15		Guys When is the Egypt Vs Algeria Match?? What Channel is it playing???
+Q2753_C1		1		0.62233783619426
+Q2753_C2		1		0.6274091568470416
+Q2753_C3		4		0.603618142133183
+Q2753_C4		1		0.5876434495287455
+Q2753_C5		2		0.5814234713526095
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Q2755		48		A warm greetings to all members, I have a valid UAE Driving License and interested to obtain Qatar Driving License, what are the procedure? Things or documents to prepare? Do i still need to go for a driving lessons? Thank you so much..
+Q2755_C1		1		0.6073566714858162
+Q2755_C2		1		0.614577025493464
+Q2755_C3		4		0.5843546036630168
+Q2755_C4		4		0.5761948512930144
+Q2755_C5		4		0.603385773788296
+Q2755_C6		2		0.5548460304552915
+Q2755_C7		1		0.6099798975084009
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Q2756		50		Coming to Qatar soon, and brining my dog (small Yorkie) fancy a nice apartment but unsure if the general rule in Doha will be NO Dogs allowed!! in apartments, even small dogs. Is that likely to be he case and should go for a villa?
+Q2756_C1		1		0.5675911403562276
+Q2756_C2		1		0.59010591671923
+Q2756_C3		1		0.6032637664488034
+Q2756_C4		1		0.5538793034896893
+Q2756_C5		1		0.6233556774018829
+Q2756_C6		4		0.5991480697354216
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Q2757		22		Anybody know any evening swimming classes offered in Doha for adults only, maybe 3 classes per week possibly. Thank you.
+Q2757_C1		1		0.6250612053327512
+Q2757_C2		1		0.6276154990019994
+Q2757_C3		3		0.5435749974616172
+Q2757_C4		1		0.6319057884270164
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Q2759		73		Hi Guys... Till today morning my application status was showing as under process on the MOI website for family visa. Now I checked at 1 pm and it still shows under process but in a different way and also shows expiry date, application date etc...but the visa number is not there! Does this mean I have to go to immigration to pay the fees?
+Q2759_C1		1		0.6158717684004819
+Q2759_C2		3		0.5606540015652315
+Q2759_C3		1		0.600490323073421
+Q2759_C4		4		0.592841939870938
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Q2760		65		Kindly someone tell me, specially if there is someone from pakistan, is there any visit visa available for pakistanis? i have asked many travel agents in pakistan,but they say they do not deal with qatar visit visa/no visit visa available. I am almost shocked because UAE visas are so easy to get, why not qatar visit visa for pakistanis?
+Q2760_C1		4		0.6097372422469517
+Q2760_C2		1		0.5717984079932137
+Q2760_C3		1		0.5614186124814584
+Q2760_C4		1		0.5764932107683882
+Q2760_C5		4		0.5812543370422334
+Q2760_C6		1		0.5884030773319006
+Q2760_C7		4		0.6056918090678572
+Q2760_C8		1		0.5876824567526734
+Q2760_C9		3		0.5735249771340271
+Q2760_C10		1		0.586352079818747
+Q2760_C11		1		0.5704499970871589
+Q2760_C12		3		0.5743521401829256
+Q2760_C13		4		0.5897080573519156
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Q2761		6		i wanted to buy a piano ..
+Q2761_C1		1		0.6457048812015554
+Q2761_C2		1		0.6269870811558081
+Q2761_C3		1		0.6349256681059003
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Q2762		62		Dear Friends, I did my US Non immigrant Visa interview today. I was told to collect my Passport with Visa Stamped at Embassy main Gate between 3 to 3.30PM today. After my Visa interview I was given token with number specified from interview counter. Can anybody tell me how I can know my visa Status before Evening?
+Q2762_C1		1		0.5621250764714696
+Q2762_C2		4		0.5429290103992213
+Q2762_C3		1		0.57374809619243
+Q2762_C4		4		0.5614853541778494
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Q2763		12		Can anyone help me to know where to buy SE W960i LCD?
+Q2763_C1		1		0.6019189933292559
+Q2763_C2		1		0.6397719853310233
+Q2763_C3		4		0.5626184861953756
+Q2763_C4		4		0.5521705673343347
+Q2763_C5		3		0.617326431173769
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Q2764		33		I'm trying to put an ad in classified all is ok till i get to the captcha i can't get it right, any ideas pls... How does it work ?
+Q2764_C1		4		0.5666209133878867
+Q2764_C2		1		0.6141011069076766
+Q2764_C3		1		0.6007804571473967
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Q2766		40		Friends, i need to go for a printing items (menus, flyers etc) for a restaurant. Can anybody tell me about printing press in Doha, any experience. pls share / advise thanks a lot (in advance)
+Q2766_C1		1		0.5712859036438382
+Q2766_C2		1		0.5429725578035911
+Q2766_C3		3		0.5755121199200786
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Q2768		14		i want one of them so i wanna know the price :) thank you
+Q2768_C1		2		0.6271395381146848
+Q2768_C2		3		0.6190031501691218
+Q2768_C3		3		0.6266191058621899
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Q2769		11		where is cebuana lhuillie in qatar ?? plz reply
+Q2769_C1		1		0.6005782930745488
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Q2770		4		Any one from hyderabad
+Q2770_C1		4		0.6253793906562666
+Q2770_C2		1		0.6383635240937721
+Q2770_C3		4		0.6064482554219304
+Q2770_C4		1		0.634134991371121
+Q2770_C5		1		0.636876938843062
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Q2771		67		Hey Everyone... I want to know if there are any good professional wedding photographers in the country??? I have a huge assignment...and this is real important for me to know....!! :) :) PLease do tell me the studio/individual name with their phone numbers... Thanks people... :)
+Q2771_C1		1		0.5881929906015447
+Q2771_C2		3		0.5624481664980228
+Q2771_C3		1		0.5677310787827476
+Q2771_C4		4		0.596312339127353
+Q2771_C5		4		0.5673736610011924
+Q2771_C6		3		0.5489717348260031
+Q2771_C7		3		0.550731958956531
+Q2771_C8		3		0.5937234325127331
+Q2771_C9		1		0.5401657877336086
+Q2771_C10		4		0.5833222340549015
+Q2771_C11		4		0.5389776885582133
+Q2771_C12		1		0.5730575380553243
+Q2771_C13		1		0.5846759044376943
+Q2771_C14		1		0.5553322335093054
+Q2771_C15		1		0.5489717348260031
+Q2771_C16		1		0.541159133525349
+Q2771_C17		4		0.5682495515778478
+Q2771_C18		1		0.6090368740585526
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Q2772		42		LA Lakers vs. Denver Nuggets Which one do you think will advance to the NBA Finals? I'm sure this will be a very interesting series considering one fact that Chauncey Billups made a big impact on the Nuggets line up.
+Q2772_C1		1		0.5232035725459762
+Q2772_C2		2		0.5566651099911842
+Q2772_C3		1		0.5232035725459762
+Q2772_C4		2		0.5716988519146952
+Q2772_C5		2		0.577181205183991
+Q2772_C6		1		0.6166590134400194
+Q2772_C7		2		0.6270233023584934
+Q2772_C8		4		0.5361337164515626
+Q2772_C9		1		0.576474095000008
+Q2772_C10		3		0.5482449639471006
+Q2772_C11		1		0.6253151346723089
+Q2772_C12		3		0.6028098353429526
+Q2772_C13		2		0.546534892412663
+Q2772_C14		3		0.5843690770889096
+Q2772_C15		3		0.6182788596983819
+Q2772_C16		2		0.5391357924664864
+Q2772_C17		3		0.5397514906023279
+Q2772_C18		3		0.5503132100952454
+Q2772_C19		1		0.547149008536084
+Q2772_C20		4		0.5640120622971804
+Q2772_C21		3		0.5430923073390646
+Q2772_C22		3		0.5273237171927002
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Q2773		13		Are there any Eye Test Center in City Center accredited by Trafic Department?
+Q2773_C1		2		0.6134831575278702
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Q2774		43		Wondering if there are any collection points for Material/Money Donations or Charity group in Doha doing the Japan Tsunami/Earthquake Relief ?? Anyone know of any of the Charity Group/s doing this drive? or how can we start one? Thanks!
+Q2774_C1		1		0.5467454709245683
+Q2774_C2		1		0.5730675204895279
+Q2774_C3		1		0.6147445144636713
+Q2774_C4		4		0.5561289423575219
+Q2774_C5		4		0.612515948885588
+Q2774_C6		2		0.6216567639947707
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Q2775		29		what is the time period between two Visit Visa I mean once came and gone back,then after how many month to be finished to take another visit visa.
+Q2775_C1		1		0.6261599908152474
+Q2775_C2		1		0.5379397480930129
+Q2775_C3		1		0.6051022482100606
+Q2775_C4		1		0.5541793027695086
+Q2775_C5		1		0.5480846698986723
+Q2775_C6		1		0.6340573339290007
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Q2776		7		Where Can I Find This In Doha??
+Q2776_C1		4		0.6457359712062679
+Q2776_C2		3		0.6397855801871187
+Q2776_C3		2		0.6339667906892366
+Q2776_C4		2		0.6261751720699475
+Q2776_C5		2		0.6247084875761822
+Q2776_C6		2		0.6426674466246877
+Q2776_C7		4		0.6354536197649258
+Q2776_C8		2		0.6037567462674398
+Q2776_C9		2		0.6254709244522582
+Q2776_C10		2		0.6433706351961797
+Q2776_C11		1		0.6297952337304406
+Q2776_C12		2		0.6341745110474983
+Q2776_C13		1		0.6320281023060715
+Q2776_C14		2		0.6053182775500421
+Q2776_C15		4		0.6229392110967757
+Q2776_C16		4		0.57787411041884
+Q2776_C17		4		0.6240797016652726
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Q2777		67		I was traveling from Heathrow to Doha. I had 2 checked in luggages, one of them came with me but the other one is lost. I was travelling by Qatar Airways. Now, its been two days but i am still waiting. Howlong does this procedure take? and what should i do about it if they cant find it? Thanks
+Q2777_C1		3		0.5932471799166633
+Q2777_C2		4		0.5627378914154307
+Q2777_C3		1		0.6140244394385669
+Q2777_C4		3		0.5820242381073553
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Q2778		56		Please can someone help if its possible to convert an ADSL Connection to Wireless. I have extended 2 my Flat from a Modem and I would like to use internet everywhere in my House please,answer me if u know anyone who can help on this or if you can help me to solve it.
+Q2778_C1		1		0.5595774370353356
+Q2778_C2		1		0.5860782580679726
+Q2778_C3		1		0.5872426711706081
+Q2778_C4		1		0.6186281308283311
+Q2778_C5		1		0.6194590027626024
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Q2779		75		What's the clubbing scene in Doha. I left a cool lifestyle in Mumbai for little more money and I'm stuck here. I heard about liquor licence, QDC n all. I'll be getting my ID this week after that I can go for that. But apart from that can anybody tell me what the nightlife available here? How much I need to spend, where are the places etc etc...
+Q2779_C1		1		0.5453167551829935
+Q2779_C2		4		0.5573902609235578
+Q2779_C3		4		0.5306039984508892
+Q2779_C4		4		0.5456867324397127
+Q2779_C5		3		0.576611449643845
+Q2779_C6		1		0.5759750303870732
+Q2779_C7		4		0.5340417923580957
+Q2779_C8		2		0.5306039984508892
+Q2779_C9		2		0.6025886245375567
+Q2779_C10		2		0.6047628368507432
+Q2779_C11		2		0.5518359847735992
+Q2779_C12		2		0.5550643248992484
+Q2779_C13		2		0.5306039984508892
+Q2779_C14		2		0.5306039984508892
+Q2779_C15		2		0.5497979838551962
+Q2779_C16		2		0.5952613258572212
+Q2779_C17		3		0.5497605203328476
+Q2779_C18		2		0.5299161232369549
+Q2779_C19		2		0.5548186333729602
+Q2779_C20		1		0.5625273062560704
+Q2779_C21		1		0.5653309281698083
+Q2779_C22		4		0.5423187647325273
+Q2779_C23		3		0.55171562784421
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Q2780		38		some pics of MY aquarium..:( don't my cute fishes look sad and lost??? :(:(:( what shoudl i do?? how can i get rid of this green hell??? :(:(
+Q2780_C1		2		0.5909213641813648
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Q2781		42		I applied for family visa and unfortunately it was rejected even i have all the criteria,i am sending sms to meet the committee but the reply i received is "you cannot make appointment with the committee,go to immigration dept" why?
+Q2781_C1		2		0.5344651989963863
+Q2781_C2		1		0.6202695282469027
+Q2781_C3		4		0.604743216300729
+Q2781_C4		1		0.6124658237699013
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Q2782		60		Has anyone succeeded in using G1 Android with QTel postpaid sim card. I need the GPRS setting to connect to internet. My phone is already unlocked. but 'am unable to connect to internet with the GPRS settings I found on QL or other sites. please post the reply on QL so many user will get benifts
+Q2782_C1		1		0.5681616727793691
+Q2782_C2		1		0.5629056144933324
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Q2783		89		The Fastest iPhone Ever The first thing youll notice about iPhone 3GS is how quickly you can launch applications. Web pages render in a fraction of the time, and you can view email attachments faster. Improved performance and updated 3D graphics deliver an incredible gaming experience, too. In fact, everything you do on iPhone 3GS is up to 2x faster and more responsive than iPhone 3G. . . Are you getting one? . Where can i get one?
+Q2783_C1		2		0.5347968521209272
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Q2784		4		Options 100% 50% 0%
+Q2784_C1		2		0.6229392110967757
+Q2784_C2		2		0.6392294698921399
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Q2785		12		hi guys do u know any places where can i find them ?
+Q2785_C1		4		0.6290628973311734
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Q2786		82		Hello. We just realized that our lifetime CDs of photos and weddings were missing. It was 2 months ago after our boxes were land freight to Doha from Dubai. We tried to contact the custom authorities, our shipping agents, and ask how to go about to claim it back. So far, we haven't had any luck. Does anyone has this experience before? Would love to hear from you and your comments. Thanks
+Q2786_C1		4		0.5464561338238703
+Q2786_C2		3		0.5420204402585521
+Q2786_C3		1		0.5645489782477516
+Q2786_C4		4		0.6327066613668498
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Q2787		35		hi! can u pls tell me the names of nursery schools here in qatar and their location? i have a 4 year old daughter who haven't been to any nurseries/baby centers. thanks!
+Q2787_C1		1		0.6002438531746075
+Q2787_C2		4		0.5369379430492661
+Q2787_C3		1		0.5589451429702205
+Q2787_C4		1		0.6097663954808723
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Q2788		28		What is the trend in rent costs in doha? I am seeking a 3 /4 bedroom unfurnished villa (independant) villa. What is the approximate rental cost?
+Q2788_C1		3		0.582923469834904
+Q2788_C2		1		0.6090895478869048
+Q2788_C3		1		0.5491365222304578
+Q2788_C4		1		0.5444231800734705
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Q2789		30		Dear QL Members, Please help me, where is the HTC Phone service center or any mobile shop that can repair HTC Touch Cruise Mobile Phone. Thank you.
+Q2789_C1		1		0.6123019871399495
+Q2789_C2		1		0.6269184679785604
+Q2789_C3		1		0.5819907270629389
+Q2789_C4		1		0.6123019871399495
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Q2790		32		Dear Friends, Kindly let me know where can i buy books in which i can record my newly born baby's information. it is also called baby's first book. tnx.
+Q2790_C1		1		0.5680365902925929
+Q2790_C2		1		0.6054938623852462
+Q2790_C3		1		0.5610994644072014
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Q2791		15		just been told qdc have started selling pork, does anyone know true or false
+Q2791_C1		1		0.5234868100026995
+Q2791_C2		4		0.6248423624623642
+Q2791_C3		1		0.5370827328470729
+Q2791_C4		1		0.6327145355822631
+Q2791_C5		1		0.627274866980188
+Q2791_C6		4		0.567458166368766
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Q2792		5		please advice about my question.
+Q2792_C1		1		0.6229392110967757
+Q2792_C2		1		0.6371906438500472
+Q2792_C3		1		0.6323391163037436
+Q2792_C4		1		0.645686661746649
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Q2793		27		How people choose their usernames in social media? Does they reflect their personalities? If QL give you a chance what would be your next username?
+Q2793_C1		2		0.5943455701114859
+Q2793_C2		2		0.554840487608047
+Q2793_C3		2		0.5869969396300123
+Q2793_C4		2		0.5315317015359097
+Q2793_C5		1		0.6171597076943791
+Q2793_C6		2		0.59106371666753
+Q2793_C7		2		0.5315317015359097
+Q2793_C8		2		0.5376328099058626
+Q2793_C9		2		0.5915625471854842
+Q2793_C10		1		0.5315317015359097
+Q2793_C11		1		0.5646852932559535
+Q2793_C12		1		0.6317598832950728
+Q2793_C13		1		0.554840487608047
+Q2793_C14		2		0.6273371904352418
+Q2793_C15		2		0.5879311990884425
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Q2794		27		we want to buy gift baskets, need to know where we can buy in reasonable price and more options. Please thread your comments and suggestions.
+Q2794_C1		4		0.5830844948841821
+Q2794_C2		4		0.5958976098804841
+Q2794_C3		4		0.5682809950916083
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Q2795		7		Morniiiiiiiiiiiiiiiiing Drop your jokes here! thanks
+Q2795_C1		4		0.6379860713260627
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Q2796		80		I moved to Doha three months back. I want to know from where can i drink alochol in cheap rates. I went to ramada, W, they are very expensive. Secondly i want to know what if i am drunk and coming out from bar and going to my room. Means is there any problem for me as i am a muslim guy. I shall be very thankful if someone posts the suitable answer.
+Q2796_C1		3		0.5985426265913086
+Q2796_C2		2		0.5402813876107115
+Q2796_C3		1		0.5984866237042619
+Q2796_C4		4		0.546663633314249
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Q2798		22		Dear all, Can you please advice where in Doha can you find plus sized clothes, apart from Splash and Evans?
+Q2798_C1		1		0.5950182073283707
+Q2798_C2		1		0.5898570113654357
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Q2800		63		On QL, who are those you agree with on 'most' matters? I agree with Mehnis along with FS,Khawaga MJ,WK,Jack,Rizks,Pajju ( a.k.a choozy),Soniya,Suzain,Mathboy,rMs,Xena,Chinitasai,dot.com,Qatari78,Visper,Afrinnabees,Owen,Azilana,Alexa,Qatari,Ahmad and a few others. I do not agree with Olive on issues related to Marriage.
+Q2800_C1		4		0.508045375009234
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Q2801		53		Hi all, IF i buy gold bar and at some point want to sell this back to Al Fardan exchange or else where what are my options, assume it will be easy to purchase but do they also buy back at whaterver the market at that point. Regards, Irfan
+Q2801_C1		1		0.5519089181143901
+Q2801_C2		1		0.5861492734873363
+Q2801_C3		1		0.5657264796244584
+Q2801_C4		4		0.617175638686789
+Q2801_C5		1		0.6029293795097567
+Q2801_C6		2		0.5535968756077276
+Q2801_C7		2		0.6026222297439948
+Q2801_C8		2		0.6009228149224323
+Q2801_C9		1		0.5535968756077276
+Q2801_C10		2		0.5535968756077276
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Q2802		36		Hi Guys, Cam someone confirm this information that MEN are not allowed to get Automatic licence directly and do not have to do a manual test. Your answers will be apprecitated. Thanks Leon
+Q2802_C1		2		0.584309678233732
+Q2802_C2		1		0.5976251125140344
+Q2802_C3		4		0.5535636740895401
+Q2802_C4		2		0.5637663413573655
+Q2802_C5		4		0.5994761329465768
+Q2802_C6		3		0.6157112964572246
+Q2802_C7		3		0.5611787808290388
+Q2802_C8		1		0.6288071471587734
+Q2802_C9		2		0.6017280780830307
+Q2802_C10		1		0.5436199134134523
+Q2802_C11		4		0.6198207437151385
+Q2802_C12		3		0.6087703474643072
+Q2802_C13		4		0.5791840840836984
+Q2802_C14		1		0.5311893096947814
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Q2803		6		what is life journy really is
+Q2803_C1		2		0.5397564516526763
+Q2803_C2		2		0.5397564516526763
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Q2804		16		Does anyone know where to purchase a TENS machine or have one for sale? TIA
+Q2804_C1		4		0.5986560371111167
+Q2804_C2		4		0.6109400940536772
+Q2804_C3		4		0.632049551759353
+Q2804_C4		1		0.5558377496148259
+Q2804_C5		3		0.6429488076427126
+Q2804_C6		3		0.6283413042497811
+Q2804_C7		1		0.6323860347820449
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Q2805		80		I was very interested when I first QL, I thought it is nice site. But sorry to say the site is more rejecting than welcoming to new ppl. or even to old members but not as popular as other QL big names. Posts are getting so silly , no attractive posts, ppl are divided into groups. Please leaders of QL , try to drag QL from being another useless site. Thanks,
+Q2805_C1		1		0.5745326520564225
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Q2806		37		I am a civil engineer here in the philippines and soon be working in qatar? what visa should they be have? and how long is the processing? what are the requirements? thank you.
+Q2806_C1		1		0.6305965828770687
+Q2806_C2		1		0.5463823633426228
+Q2806_C3		4		0.6256486231814908
+Q2806_C4		1		0.6145746968784959
+Q2806_C5		1		0.6103515374238003
+Q2806_C6		4		0.5933571319014397
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Q2807		54		Guyz, good morning, i phoned qtel asking for KBR number they said they have around 100 and gave me 10 but it seems all belong to houses of ppl workin at KBR thus calling 180 wasnt beneficial; Does any1 know wats KBR office number ??? Thanks, Wissam
+Q2807_C1		1		0.6121854882577542
+Q2807_C2		1		0.6266416137402328
+Q2807_C3		4		0.5861028780266436
+Q2807_C4		4		0.562136378182642
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Q2808		41		Hello, I am new to Qatar.I heard lot of mobile voip software available in the market to make call to India.Could some one tell me which one will good to use with my iphone 3g. Regards Basheer
+Q2808_C1		1		0.5399004225019436
+Q2808_C2		1		0.551187993318006
+Q2808_C3		1		0.557523500707459
+Q2808_C4		1		0.556688319434724
+Q2808_C5		4		0.6177230404047409
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Q2809		36		Hi i have just moved to Doha, al zahoor - working at Qatar Uni. where would you recommend to go out for socializing and meeting up with people - clubs bars etc cheers iain
+Q2809_C1		2		0.6214667488786877
+Q2809_C2		2		0.5522300114909301
+Q2809_C3		1		0.5972852768563225
+Q2809_C4		1		0.6140206097325809
+Q2809_C5		1		0.5873698738856116
+Q2809_C6		2		0.5325964883107127
+Q2809_C7		1		0.6149133880387544
+Q2809_C8		2		0.6217476835996479
+Q2809_C9		2		0.5365933553873077
+Q2809_C10		2		0.5728483457225992
+Q2809_C11		1		0.6163890263308026
+Q2809_C12		2		0.6074795422879805
+Q2809_C13		2		0.6275844568719786
+Q2809_C14		2		0.6273610601477528
+Q2809_C15		2		0.5816036719973549
+Q2809_C16		2		0.5800513634356257
+Q2809_C17		2		0.6290089429154634
+Q2809_C18		1		0.6050235796325113
+Q2809_C19		1		0.6151396087202521
+Q2809_C20		1		0.6095160532110514
+Q2809_C21		2		0.5445255324644219
+Q2809_C22		4		0.5828323189729158
+Q2809_C23		4		0.6020605578983979
+Q2809_C24		4		0.6131016954393117
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Q2810		25		Hi: i am going to apply for immigration to canada , i want know is canada a peaceful country like qatar ? thnaks,
+Q2810_C1		2		0.6093390632578184
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Q2811		76		Hey there guys! I'm moving out to Doha to start work with the Ta'allum Group in Doha as a primary school teacher at (I think!) the Al Maha Academy for Boys. Is anybody else moving out there? Does anybody know where they're supposed to be living yet? I haven't had all the info from the school yet. I wouldn't mind getting some topic info so I can plan properly really!
+Q2811_C1		3		0.5745154804856349
+Q2811_C2		4		0.5318453178705932
+Q2811_C3		3		0.5908367266765379
+Q2811_C4		2		0.5540519261961281
+Q2811_C5		4		0.5356478234572138
+Q2811_C6		4		0.6176720292408997
+Q2811_C7		3		0.6185348572004008
+Q2811_C8		4		0.6208655906189805
+Q2811_C9		4		0.6093670847099925
+Q2811_C10		2		0.5531173351076204
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Q2812		59		I am looking for a carpet, which is not very wide, but long one (like the ones used in long corridor). I looked in Home Center, homes r us, and carrefour, but they don't have this kind. Does anyone know a good place to buy carpets, not too expensive? Thanks!
+Q2812_C1		1		0.5410703533142763
+Q2812_C2		1		0.5427220630351848
+Q2812_C3		1		0.5797508810307559
+Q2812_C4		4		0.5958305157111121
+Q2812_C5		1		0.5502995642283993
+Q2812_C6		1		0.5592287873950912
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Q2813		38		I have seen a lot of companies and banks writing QSC after the name of the organization in Qatar. What does that mean? Is it a government company or is it a stock exchange listed company??
+Q2813_C1		1		0.5482759940525832
+Q2813_C2		1		0.5452687246724814
+Q2813_C3		1		0.5491793388784614
+Q2813_C4		4		0.582077084138828
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Q2814		36		I would like to know about any good driving school in DOHA. Would appreciate if its possible to get complete address and Tel. number.And also howmuch are the fees for a full course.
+Q2814_C1		1		0.6100820029594254
+Q2814_C2		1		0.6184573417871199
+Q2814_C3		1		0.594089284167947
+Q2814_C4		1		0.5454587622848859
+Q2814_C5		1		0.6068229306222962
+Q2814_C6		1		0.6284708192570274
+Q2814_C7		1		0.6028559090810041
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Q2815		29		Where in doha do we get decent whitegold? not the ones very thin like in damas or the huge ones in alfardan jewellery. how about good gemstones?
+Q2815_C1		1		0.5912091644025235
+Q2815_C2		1		0.5982234258503417
+Q2815_C3		1		0.6012642363194217
+Q2815_C4		1		0.5449641315829024
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Q2816		17		how many of you buy or eat halal frozen beef meat.which is imported from other countries?
+Q2816_C1		3		0.5623841581129763
+Q2816_C2		3		0.594384274814862
+Q2816_C3		1		0.6457369857429645
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Q2817		25		Hi! Would someone know any nearby pet shop to get fishes (e.g. Goldfishes and the like)? I am at Bin Mahmoud.
+Q2817_C1		1		0.6060793123683038
+Q2817_C2		1		0.5916984493661468
+Q2817_C3		1		0.6233566380192782
+Q2817_C4		2		0.5849708145796301
+Q2817_C5		2		0.6050238287897404
+Q2817_C6		1		0.585190271851205
+Q2817_C7		2		0.6280604906164728
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Q2818		59		Can i procure visit visa for my mother in law? my family is here in Doha on resident visa but was wondering on the same as some of my freinds advised that visit visa can only be procured for immediate family members. is this notion right? your feedback to this effect is highly apperciated. Regards,
+Q2818_C1		1		0.5737793820727315
+Q2818_C2		1		0.5500317798646024
+Q2818_C3		1		0.5570770188838736
+Q2818_C4		1		0.5821107146407923
+Q2818_C5		1		0.6101326876586299
+Q2818_C6		1		0.6127952373210187
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Q2820		21		Can antbody recommend a good workshop to get my elderly BMW X5 fixed, mostly damage to rear bumper and boot
+Q2820_C1		1		0.6363967453624831
+Q2820_C2		1		0.6291531119446864
+Q2820_C3		2		0.6377479088324326
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Q2821		10		Sand storm today 07/06/2013 Friday on Alkhor - Dakheera road...
+Q2821_C1		2		0.5626536751791201
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Q2822		21		In qatar, when i can take vaccination for swine flu for my 7 month old baby? please help me.
+Q2822_C1		3		0.6195064204713832
+Q2822_C2		3		0.6241800631851159
+Q2822_C3		3		0.6410621394581927
+Q2822_C4		3		0.6128696298844607
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Q2823		80		One of my friend was coming to Qatar for the first time on a work visa. He bought 2 bottles of liqour from Bahrain duty free shop. But when he reached Doha airport it was taken away by the customs people. Is it illegal to bring it from duty free??? And also I want to know, whether there will be some problem for him to get his RP? Pls. your views..........
+Q2823_C1		1		0.543064690442651
+Q2823_C2		1		0.5928851302819738
+Q2823_C3		1		0.5800392059777164
+Q2823_C4		1		0.5682395244755569
+Q2823_C5		1		0.5774100576912655
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Q2824		38		Please can someone tell me that if any karwa is going from Bin Mahmood anywhere near Lcigal to Industrial Area 1 roundabout after Al Watan roundabout morning? I need to reach there everyday by 8am. Thanks
+Q2824_C1		1		0.5681335702213571
+Q2824_C2		3		0.5472044551019938
+Q2824_C3		4		0.5650549707593925
+Q2824_C4		4		0.6242970481313911
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Q2825		20		Can anyone tell me what is the minimum salary required to apply for Liquor Permit and other formalities? Thanks
+Q2825_C1		1		0.635491097259039
+Q2825_C2		4		0.6030293279442824
+Q2825_C3		1		0.6255017561789283
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Q2826		38		I am looking for an Arabic teacher to provide private lessons for my daughter who is in grade 7. Teacher must be willing to come to my house. Will be paying up to QR150 per hour.
+Q2826_C1		3		0.6242870323992763
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Q2827		58		dear all, i have pruchased 7 months ago a laptop which has Vista OS, it is really very tough time with this Vista OS, few days ago i tried to connect Mosaic wirless connection and failed which i can connect it in XP OS, any one help me in this, thanks a lot
+Q2827_C1		4		0.5319742056070036
+Q2827_C2		2		0.5519238890668021
+Q2827_C3		1		0.6189079553705966
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Q2828		27		Its been shifted to new location from sofitel area more than a year ago.. unable to find the location.. anybody knows the location?
+Q2828_C1		1		0.5837113420589153
+Q2828_C2		1		0.6014218543897009
+Q2828_C3		3		0.5852717243288672
+Q2828_C4		4		0.5382271767824717
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Q2829		62		Hi, can you please give us some backgrounds regarding Doha's lifestyle. In terms of cost of living and quality of education. I'm a nurse by profession, are there many career oppotunities for me as well. We have plans in joining my husband in Doha with my 8 y.o. son. What's your advice? Thanks!
+Q2829_C1		2		0.5380133618436775
+Q2829_C2		1		0.6252001496688386
+Q2829_C3		2		0.5881298056881206
+Q2829_C4		1		0.6101514702468012
+Q2829_C5		2		0.5467303504765608
+Q2829_C6		2		0.5377351687881922
+Q2829_C7		1		0.5720766979428592
+Q2829_C8		1		0.5378742682639921
+Q2829_C9		1		0.5495856667445319
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Q2830		9		Its to help the MMG workers at my school
+Q2830_C1		4		0.5517771145829434
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Q2832		7		Anywhere decent and at a good price?
+Q2832_C1		2		0.6275942382104306
+Q2832_C2		2		0.6333487501631297
+Q2832_C3		2		0.6429367407086398
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Q2834		70		Dear friends, I am thinking to apply for my wife Visit visa, recently my residency request has been rejected by labor Dept. And I have got a meeting date 23 Feb to know the reason of rejection. Can I apply my wife visit visa now. or should I wait until to finalize the labor Dept process. Please suggest.. Thank you in advance.........
+Q2834_C1		1		0.5695798588427844
+Q2834_C2		4		0.608163325160859
+Q2834_C3		4		0.563860213716981
+Q2834_C4		4		0.5605932048057286
+Q2834_C5		1		0.5682432913025768
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Q2835		67		Say easy but come to reality isas easy as saying. Come here DOHA for a few months only and now feeling like to live here but as a family condition this is not an easy decision as well. None of family members are not possible to come and live with me. So What is the best option to live here in DOHA without family?
+Q2835_C1		2		0.5537325282009407
+Q2835_C2		1		0.6097879876689717
+Q2835_C3		2		0.541563332665156
+Q2835_C4		1		0.5920489645176784
+Q2835_C5		2		0.5294106894646721
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Q2836		67		Hello Fellas, may I ask anyone where can my documents be notarized here in Qatar, my papers/documents are all from Philippines, I am applying for NCLEX-RN (US Licensure for Nurses in the US).. I think it can be notarized here because this is my current residency. Help anyone?who knows an attorney who can notarize my documents. Thanks and Godbless.
+Q2836_C1		3		0.5700934570239785
+Q2836_C2		3		0.5743503301383173
+Q2836_C3		1		0.6109188229044767
+Q2836_C4		1		0.5793317796543245
+Q2836_C5		1		0.6085484083276139
+Q2836_C6		1		0.5882982753432707
+Q2836_C7		1		0.6214184032600971
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Q2837		8		I do Who else bakes bread at home?
+Q2837_C1		2		0.5558377496148259
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Q2838		26		is there any other who are facing slow internet speed from evening onwards... and if any know why it is happen pls share....
+Q2838_C1		3		0.5485509829763776
+Q2838_C2		3		0.6090662788548047
+Q2838_C3		3		0.57292577534738
+Q2838_C4		2		0.5700214730877384
+Q2838_C5		3		0.5700214730877384
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Q2839		47		Dear friends, How to do a certificate attestation in Qatar. My wife got a job in Qatar and now she is asked to attest the certificates from Embassy or ministry of external affairs. Please advise me how to do it. thanks in advance....
+Q2839_C1		1		0.594463748144716
+Q2839_C2		1		0.6335227980095537
+Q2839_C3		1		0.6236713514506165
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Q2840		25		I am holding a Dubai driving license, please advise on the steps to attain a Qatar driving license based on my current Dubai license.
+Q2840_C1		1		0.6169273416589034
+Q2840_C2		4		0.5801534576553636
+Q2840_C3		4		0.613997413810703
+Q2840_C4		3		0.624879021555946
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Q2841		90		I took my first driving test this morning and managed to pass the signal, L and parking tests. However, I got screwed in the road test (don't ask). I'm planning to retake the test sometime this month. By doing so, do you go over the test from the start? Or do you start where you left off (failed)? Like me, for example, I failed the road test, so does that mean I only do the road test? Thanks!
+Q2841_C1		1		0.5787237426811179
+Q2841_C2		1		0.5560496877896751
+Q2841_C3		1		0.5855022775253006
+Q2841_C4		1		0.5935419629311911
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Q2844		35		i'd like to buy puppies for a pet. but i do not know where to get one..if anyone does, please tell me the shop, place or the address..thanx.
+Q2844_C1		1		0.6140494583705873
+Q2844_C2		3		0.630236726555803
+Q2844_C3		1		0.643134399224992
+Q2844_C4		4		0.5878698618914381
+Q2844_C5		1		0.6066217607387413
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Q2845		22		Is there any art college here in qatar? If there is then call me 66693196. And what are the requirements??
+Q2845_C1		3		0.5616076101306248
+Q2845_C2		2		0.5666603662671693
+Q2845_C3		1		0.610241875541591
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Q2846		54		for family visit visa immigration need marriage certificate should be attested by Indian embassy and then foreign ministry in Qatar.last week i visited indian embassy but they refuse to attest, so where can i get attest marriage certificate??? pls help me if anyone knows about this procedure. thanks.
+Q2846_C1		1		0.6058510840345562
+Q2846_C2		3		0.5902907657888739
+Q2846_C3		3		0.6086172143517617
+Q2846_C4		1		0.6101756073135178
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Q2847		19		I am looking for a ballet school and/or a gymnastic school for my 5-year old daughter. Any suggestions?
+Q2847_C1		1		0.6297216215347492
+Q2847_C2		1		0.6196701112526599
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Q2848		55		I recently was offered a job in Doha..I found here some useful insight about rental rates. What are the other high and costly expenses?I am also wondering about drinking water!Do people usually drink from tap or bottled water in Qatar?Since tap water got me sick once in my city!!
+Q2848_C1		1		0.5891383139001546
+Q2848_C2		1		0.6041362910239699
+Q2848_C3		1		0.6246572264759681
+Q2848_C4		1		0.6220010511708801
+Q2848_C5		3		0.6151859616055767
+Q2848_C6		3		0.5382613311975699
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Q2849		63		Ok so I have been bitten by this bug of mystery thriller movies. Which one do you guys think was the movie with the best twist in the plot. I mean really shocking like The Sixth Sense or The Usual Suspects. That kind of movie. Ofcourse I will appreciate it if you don't give out the endings, lol..
+Q2849_C1		1		0.6120889085313065
+Q2849_C2		3		0.5304226014514581
+Q2849_C3		1		0.5504534447358828
+Q2849_C4		1		0.5301516554256287
+Q2849_C5		4		0.5632391231136684
+Q2849_C6		1		0.5301516554256287
+Q2849_C7		1		0.5290314082723852
+Q2849_C8		4		0.5731105393105979
+Q2849_C9		1		0.5680360158165808
+Q2849_C10		1		0.5984676592712724
+Q2849_C11		1		0.5279272703943055
+Q2849_C12		1		0.5706411619561819
+Q2849_C13		4		0.545531035265952
+Q2849_C14		1		0.5545515901138524
+Q2849_C15		1		0.5386600301721013
+Q2849_C16		2		0.5269972363777243
+Q2849_C17		2		0.5294430318553223
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Q2850		59		Good morning, i am plannig to celebrate my son's 1st Birth day party. can you please tell me where can i find good quality party items like Ballons, decoration things etc. Also i am looking for a banner. where i have to go and how much it costs( Normal size)? Thanks in advance,
+Q2850_C1		1		0.5610334096966317
+Q2850_C2		1		0.5697622518637273
+Q2850_C3		1		0.5455161340238968
+Q2850_C4		1		0.5724582203884573
+Q2850_C5		4		0.5444244127032266
+Q2850_C6		1		0.5417976453725684
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Q2852		5		What's your favorite life quotation?
+Q2852_C1		2		0.6377743166786805
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Q2853		70		Just when I planned to switch from my Satellite Dish connection into mozaic, on attempt to subscribe, qtel customer service advised it will not be possible to install mozaic at my appartment" (located in Al-Sadd). I was shocked to hear this. True that Mozaic connection is limited to not all places? anyone else experienced same? Seems i will have to go for seperate connection.
+Q2853_C1		1		0.5477762715160408
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Q2854		26		Kamran Akmal, Muhammed Amair and Kamran Akmal arrived this morning in Doha for ICC tribunal. any idea where they stay in this small country.
+Q2854_C1		2		0.6255523379101787
+Q2854_C2		2		0.5945366313168596
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Q2855		81		Recently I heard that QCB has instructed to reduce the loan interest to 6 % for the new and existing loan holders. Any update on this I am HSBC customer and still they deduct same amount... Any info from when this will effect and it is mandatory to all the Banks ( As i heard from my friend QNB already confirm they reduce the interest therefore loan repayment period has reduce) What a relief if this true????
+Q2855_C1		1		0.5541424608849506
+Q2855_C2		1		0.6184678407081706
+Q2855_C3		4		0.5316991308037661
+Q2855_C4		1		0.6113480234855393
+Q2855_C5		4		0.596050382478815
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Q2856		19		Can any one guide me about "The Wear House" its location and about stuff I can get from there.
+Q2856_C1		1		0.633429206742663
+Q2856_C2		1		0.5848175260423896
+Q2856_C3		4		0.5487000499524691
+Q2856_C4		1		0.6324026204986258
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Q2857		21		Me and my friend planning to go to UAE this coming eid, thats why im looking for a cheaper ticket?
+Q2857_C1		1		0.6257735798668699
+Q2857_C2		1		0.5984581893369271
+Q2857_C3		1		0.627200424996469
+Q2857_C4		2		0.5517872224160039
+Q2857_C5		1		0.6259619155170869
+Q2857_C6		1		0.5647157453466466
+Q2857_C7		1		0.6129312054324617
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Q2858		53		I'm looking for a bank that has (possibly free) online check and savings, offers around 5% interest on savings accounts and has a positive track record with transferring funds quickly to out-of-country banks. Any suggestions? If you have experience with all three, feel free to post up! Thanks!
+Q2858_C1		3		0.5560126248344411
+Q2858_C2		1		0.6132209835809653
+Q2858_C3		3		0.5911842558661375
+Q2858_C4		3		0.6193650768967611
+Q2858_C5		4		0.5593149988368082
+Q2858_C6		1		0.5845278672940516
+Q2858_C7		1		0.6265024585687751
+Q2858_C8		1		0.6216476965855207
+Q2858_C9		4		0.625630828264919
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Q2859		52		will be traveling with one child. I have read that 2 bedrooms comes with one king bed and a medium bed in the other room? Is the medium bed a queen bed or full size bed? I would like to know so I know what size sheets to purchase.
+Q2859_C1		1		0.6154827234448874
+Q2859_C2		1		0.5483056368596942
+Q2859_C3		1		0.6209086361061659
+Q2859_C4		4		0.6111888346464172
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Q2860		10		Is it a healthy alternative to home-cook and fastfood meals?
+Q2860_C1		1		0.6402481518747123
+Q2860_C2		3		0.5860489549722624
+Q2860_C3		3		0.6233639630629025
+Q2860_C4		1		0.6280714220908195
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Q2861		84		hi good morning...Qlers.. i am an employee of a private engineering firm.. been working for six months..hired here at doha (local hire).. sponsorship transferred to the company.. work duration 1 year renewable.. the question is.. i want to resign from my work..what are he possibilities..will they allow? or will they send me home? please i need your advice.. thanks
+Q2861_C1		1		0.5908845697234777
+Q2861_C2		1		0.5741070798426094
+Q2861_C3		1		0.5598795951052373
+Q2861_C4		1		0.596516721302669
+Q2861_C5		1		0.5507454660158864
+Q2861_C6		1		0.610158852080485
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Q2862		83		Hello to everyone! I am Russian and looking for job in Doha. How do you think is it possible to be employment in tourism sector? I have expirience 10 years inc 2 yeras in Turkey. Now thinking about mowing to Middle East. From all sites like bayt or gulftalent there are not any answer.. Lets help me find job! :)) Thank you in advance.. And nice to meet you all. Best regards.
+Q2862_C1		2		0.54829588435863
+Q2862_C2		4		0.5407651069368182
+Q2862_C3		3		0.5470906848925301
+Q2862_C4		1		0.5633708359577317
+Q2862_C5		1		0.5604100304806198
+Q2862_C6		4		0.5549605803412273
+Q2862_C7		3		0.54183010946715
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Q2863		8		Anybody knows where's the Umm Salal passport office??
+Q2863_C1		1		0.6161877724226829
+Q2863_C2		1		0.640956784532163
+Q2863_C3		1		0.6257544078026127
+Q2863_C4		4		0.6257544078026127
+Q2863_C5		1		0.638890828571432
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Q2864		25		I am planning to buy a car, but I need some advise on which vehicle would be good. Can somebody help me please???
+Q2864_C1		1		0.5513329946342445
+Q2864_C2		1		0.6190466087975233
+Q2864_C3		1		0.59469835038463
+Q2864_C4		4		0.6203346570897175
+Q2864_C5		4		0.6214450071844743
+Q2864_C6		1		0.6210997340835744
+Q2864_C7		4		0.5965267061018587
+Q2864_C8		1		0.5909121186284275
+Q2864_C9		4		0.5722802703501368
+Q2864_C10		4		0.5768658876677757
+Q2864_C11		1		0.5985663398478355
+Q2864_C12		1		0.5692382195703596
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Q2865		18		So the question is easy: What Hotel would you recommend to stay in/to avoid in Bangkok? thanks
+Q2865_C1		1		0.6201194216315443
+Q2865_C2		1		0.5818252183969324
+Q2865_C3		1		0.6301215279999415
+Q2865_C4		1		0.623618599072297
+Q2865_C5		4		0.6295129146033444
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Q2866		31		1.e4 2.gypsy Sorry ... can't think of anymore who i want to meet ... just worry i might bumped into a psycho :-)
+Q2866_C1		4		0.5733174078275391
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Q2867		41		My Acer Laptop got a damage so i need to recover the data. pls pls let me know if you know a good place or computer shop where they can recover. Thanks a lot Anuradha 009746288371 yawanthi92@yahoo.co.uk
+Q2867_C1		1		0.571971578847098
+Q2867_C2		1		0.6275513512116883
+Q2867_C3		1		0.624376581886698
+Q2867_C4		4		0.6053635625074226
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Q2868		18		Heard that school will be closing on 28th JUNE,Many school didnt announced yet.Anybody aware of it?
+Q2868_C1		1		0.6272719141349874
+Q2868_C2		1		0.6344181573713658
+Q2868_C3		4		0.5417232468388534
+Q2868_C4		4		0.5932379919374166
+Q2868_C5		4		0.56612944115047
+Q2868_C6		4		0.6060472131839184
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Q2869		5		plz reply..need help
+Q2869_C1		1		0.6446511470807584
+Q2869_C2		3		0.6478778897693019
+Q2869_C3		1		0.6258808729026067
+Q2869_C4		1		0.6444741722010773
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Q2870		43		Hi, Getting ready for the move over and I was wondering if anyone has any tips on things you really can not get in Doha that 'at home' is just readily available. Someone mentioned cough syrup and tampons. Anything esle?
+Q2870_C1		1		0.6154039691299581
+Q2870_C2		1		0.5816468912236742
+Q2870_C3		1		0.5709584594221873
+Q2870_C4		1		0.6144792141577855
+Q2870_C5		1		0.6375850597642235
+Q2870_C6		4		0.6172552651232293
+Q2870_C7		4		0.6240585765302364
+Q2870_C8		1		0.6412881099208831
+Q2870_C9		1		0.6093035091815866
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Q2871		20		Im likely to travel in the month of june... just wanna know some good places to visit....
+Q2871_C1		1		0.6120923969364604
+Q2871_C2		1		0.6159256368729873
+Q2871_C3		1		0.6279597950236891
+Q2871_C4		1		0.5664438259782194
+Q2871_C5		1		0.560785849962289
+Q2871_C6		1		0.5695960795369229
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Q2872		59		I'am planning to go to Switzerland, Austria and Prague. None of these embassies are in Qatar. I understand that i need to send my passport to Switzerland embassy in Kuwait. Has anyone got their visa like this? How long it takes? Any travel agents assists in this process or i've send through DHL.
+Q2872_C1		1		0.6007254973816665
+Q2872_C2		1		0.6157790426038543
+Q2872_C3		1		0.6176896517078382
+Q2872_C4		4		0.5819266863904328
+Q2872_C5		3		0.5414268273088572
+Q2872_C6		4		0.6097456696847384
+Q2872_C7		4		0.556690577117144
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Q2873		22		Are Expats allowed to buy land or free standing villas in Qatar. IF yes then what is the process to follow
+Q2873_C1		1		0.528047658453684
+Q2873_C2		4		0.6250980981765389
+Q2873_C3		1		0.6375106505631626
+Q2873_C4		1		0.6422058886663691
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Q2874		7		I my case, laborer to engineer?
+Q2874_C1		3		0.6139786971615621
+Q2874_C2		4		0.5607658696241442
+Q2874_C3		1		0.6409356389346801
+Q2874_C4		3		0.6379364515223519
+Q2874_C5		3		0.6385202261601879
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Q2875		85		Where do you keep your passport during a Holiday Trip? Do you keep it in the Hotel room locker or you carry it with you? I normally carry it with me in my handbag. Been to Far East few times it was safe with me. But two of my friends recently lost their passports. One in Bangkok from their Hotel room and one in Malaysia from their backpack. I Just wanted to know what do you all normally do?
+Q2875_C1		1		0.5766762787365173
+Q2875_C2		3		0.5722849733826469
+Q2875_C3		1		0.6131407676595001
+Q2875_C4		1		0.5883343140804079
+Q2875_C5		1		0.6016732619474305
+Q2875_C6		1		0.5461937298054682
+Q2875_C7		1		0.5826849867157441
+Q2875_C8		1		0.5523911821399204
+Q2875_C9		1		0.6183129588381172
+Q2875_C10		1		0.5599181447883137
+Q2875_C11		1		0.5574962049605602
+Q2875_C12		1		0.5426738155592662
+Q2875_C13		1		0.5485984669626245
+Q2875_C14		1		0.5331620918186126
+Q2875_C15		1		0.5264580528192848
+Q2875_C16		4		0.5906145310482424
+Q2875_C17		1		0.5684302498747792
+Q2875_C18		1		0.6155045620302306
+Q2875_C19		4		0.605887055908952
+Q2875_C20		1		0.5507325665925968
+Q2875_C21		1		0.6025230741133131
+Q2875_C22		4		0.5565019148362077
+Q2875_C23		4		0.5521525492300969
+Q2875_C24		1		0.5850955693181766
+Q2875_C25		1		0.5750022740876571
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Q2876		66		I would like to find out how much the high end bottled water costs in Qatar. I need to find out the average cost of water from a supermarket or other venue, and only the high end bottled water, like Evian. therfore, it should be the most expensive, and perferably in a glass bottle, if possible. Thank You.
+Q2876_C1		1		0.5391360217252434
+Q2876_C2		1		0.5587251085547958
+Q2876_C3		1		0.5364632630939307
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Q2877		58		The brake pads on my Landcruiser need changing. I have bought the new pads from the Toyota dealer but need to find somewhere to change them over for me. I am sure Toyota would charge the earth to do this. Anhyone know any good car garages that will do this for me? Cheers guys.
+Q2877_C1		1		0.5401278915507207
+Q2877_C2		1		0.5694732008498283
+Q2877_C3		1		0.5763636461194476
+Q2877_C4		1		0.5480843740976661
+Q2877_C5		1		0.5848573396962705
+Q2877_C6		1		0.6087427003508826
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Q2878		21		Are there any good gyms/fitness center around Landmark Mall or Madinet khalifa area or burger king roundabout that are still open???
+Q2878_C1		1		0.6266717994690989
+Q2878_C2		1		0.5973561061280107
+Q2878_C3		1		0.6309042318955927
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Q2879		30		Hi Guys, Please, advise if this restaurant is expensive to dine in? We are 7 persons, how much u think it would cost me? thanks!
+Q2879_C1		3		0.5595049715702244
+Q2879_C2		4		0.6198366345220365
+Q2879_C3		3		0.6222013698173732
+Q2879_C4		1		0.6313519574142471
+Q2879_C5		3		0.6074476164452164
+Q2879_C6		4		0.5915363099583743
+Q2879_C7		4		0.5537312837933595
+Q2879_C8		1		0.6106235889541273
+Q2879_C9		1		0.622421383315838
+Q2879_C10		4		0.6073513162049806
+Q2879_C11		1		0.6159991688463915
+Q2879_C12		3		0.6199678487164809
+Q2879_C13		3		0.5916346861346493
+Q2879_C14		2		0.6098571267111622
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Q2880		27		Hi every one.. Please look at the resume and let me know any openings in qatar. Will be very helpful to me. Thanks.
+Q2880_C1		2		0.5732667557996699
+Q2880_C2		4		0.5988182681642603
+Q2880_C3		4		0.5944694563726403
+Q2880_C4		4		0.6340824189288405
+Q2880_C5		4		0.6127552296099678
+Q2880_C6		4		0.6064494835096496
+Q2880_C7		1		0.5748377719888433
+Q2880_C8		4		0.5857570893841577
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Q2881		35		does anyone know a good nursery around Madinat Khalifa South area,Fereej Bin Omran , Al Sadd ? i want a really good Nursery the same level as Little angels and creative child
+Q2881_C1		1		0.6142058290853183
+Q2881_C2		1		0.5656968872281681
+Q2881_C3		1		0.5656968872281681
+Q2881_C4		1		0.5855573084633116
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Q2883		69		Katara will be celebrating the upcoming Eid al-Fitr holiday with fireworks. The Cultural Village will be hosting the explosions of light and color for four nights, beginning with the first day of Eid. With a start at 8:30pm, the show will go on for 15 minutes. Will you be checking them out? Or is there something else youre keen to do this Eid?
+Q2883_C1		3		0.5478689553501565
+Q2883_C2		1		0.5599889664401598
+Q2883_C3		4		0.5424788800004956
+Q2883_C4		1		0.5501708511889413
+Q2883_C5		3		0.5604773963418642
+Q2883_C6		1		0.6024258883655698
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Q2884		14		Cycling is a good exercise. Any suggestions for a safe place for cycling.
+Q2884_C1		1		0.5362036674729164
+Q2884_C2		1		0.624031634756416
+Q2884_C3		4		0.579560992827663
+Q2884_C4		1		0.6195711938670013
+Q2884_C5		4		0.624278389621804
+Q2884_C6		1		0.5855254366168883
+Q2884_C7		4		0.6256667425340019
+Q2884_C8		1		0.6172241274856185
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Q2885		31		There has been a fire and an explosion in Family Food Centre (Airport Branch) about 15 minutes back. Does anyone one have any details ? Has anyone been injured ?
+Q2885_C1		1		0.6159324518747047
+Q2885_C2		1		0.6106084498908796
+Q2885_C3		2		0.5701274975130798
+Q2885_C4		3		0.5429406606276325
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Q2886		18		Hi,can anyone plz let me know best affordable english schools in Doha for Grade 2 and 7?
+Q2886_C1		1		0.6233824235380495
+Q2886_C2		3		0.5673635431283554
+Q2886_C3		4		0.5434219280145977
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Q2887		38		Hello, I need a treadmill. Can anyone please guide me that from where I can get one in a reasonable price. Moreover if someone is interested in selling his treadmill, please let me know.
+Q2887_C1		1		0.6075626479086464
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Q2888		15		I need to purchase Lampe berger oil as mine has runout. Anyone knows where?
+Q2888_C1		4		0.6296854555754713
+Q2888_C2		1		0.6289370376100698
+Q2888_C3		1		0.6306201421101789
+Q2888_C4		1		0.6407485279426256
+Q2888_C5		1		0.6398446965146435
+Q2888_C6		4		0.6432817746159876
+Q2888_C7		3		0.6304475036337948
+Q2888_C8		3		0.6224237584967628
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Q2889		16		Hello there, Anybody knows where to get Kefir grains in Doha? Regards, NKL
+Q2889_C1		1		0.62427668675223
+Q2889_C2		4		0.6370406982652361
+Q2889_C3		2		0.6361426098503354
+Q2889_C4		1		0.5986555658718347
+Q2889_C5		4		0.6173452645234632
+Q2889_C6		2		0.6188676794573773
+Q2889_C7		2		0.6167731126352013
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Q2890		48		Hi everyone, I am newly married and have been here in Qatar since 6 months.I have just completed my Post-graduation in Economics. So now I am looking for any job in Doha.Please advice where and in which field I should search for a job.
+Q2890_C1		2		0.5986250149135177
+Q2890_C2		2		0.5638056423580249
+Q2890_C3		2		0.5625863853492283
+Q2890_C4		2		0.6127445449591861
+Q2890_C5		2		0.5686652737359469
+Q2890_C6		2		0.572610236732021
+Q2890_C7		2		0.5446894586206646
+Q2890_C8		2		0.5411166124591912
+Q2890_C9		2		0.6145631991783257
+Q2890_C10		4		0.5574807940925218
+Q2890_C11		3		0.5615937377230734
+Q2890_C12		2		0.5436395792347833
+Q2890_C13		1		0.6115485580832127
+Q2890_C14		1		0.6227418917734064
+Q2890_C15		3		0.5190986917080226
+Q2890_C16		2		0.5749561639182045
+Q2890_C17		2		0.5649382749814964
+Q2890_C18		2		0.5566396605732936
+Q2890_C19		2		0.5416037399691777
+Q2890_C20		2		0.5604256766332
+Q2890_C21		4		0.555598494042293
+Q2890_C22		1		0.6026827471750484
+Q2890_C23		2		0.5445123309988449
+Q2890_C24		3		0.5712280454410806
+Q2890_C25		1		0.6033017551217789
+Q2890_C26		3		0.5604256766332
+Q2890_C27		1		0.6204986686397037
+Q2890_C28		2		0.5557475570377612
+Q2890_C29		4		0.6021449663867834
+Q2890_C30		4		0.5809153748004462
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Q2892		45		Dear all, what is the most fuel efficient vehicle out of followings? And please mention the per LITER, how many KM it would be ? 1. Nissan Altima (2008) 2. Honda Civic (2008) 3. Honda Accord (2008) Thx.
+Q2892_C1		2		0.5781552284082216
+Q2892_C2		3		0.5864990068729401
+Q2892_C3		2		0.5655724396050316
+Q2892_C4		3		0.5743421420940736
+Q2892_C5		3		0.5475452368821699
+Q2892_C6		3		0.6057282936811303
+Q2892_C7		2		0.5994303203507217
+Q2892_C8		1		0.5726659825983454
+Q2892_C9		3		0.5558448884396807
+Q2892_C10		4		0.5883880028700342
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Q2893		28		I really want to stop smoking. I have tried almost everything except hypnotherapy. Does anyone know any good hypnotherapist here in Qatar? Thank you all.
+Q2893_C1		3		0.5910518795027478
+Q2893_C2		3		0.6303387672768256
+Q2893_C3		3		0.5963177035174272
+Q2893_C4		1		0.6393208953212106
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Q2894		62		Hi, I am moving over in January from Oz and I am thinking about shipping a box over to Doha, from what I can find on the net it seems to be fairly pricey, just wondering if anyone has any tips on who I should use? Or if it is just easier to use excess baggage? thanks.
+Q2894_C1		1		0.6039714280519185
+Q2894_C2		1		0.6019697296599612
+Q2894_C3		3		0.5644749571906227
+Q2894_C4		4		0.5918180547191871
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Q2895		33		i am an indian having Qatar Residence permit (currently in India)with A profession of "Administrative". let me know is this profession eligible to get Dubai On Arrival Visa?? expecting reply....
+Q2895_C1		1		0.5881398524178166
+Q2895_C2		1		0.6287259828422835
+Q2895_C3		1		0.6175812660619723
+Q2895_C4		1		0.6189317442529113
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Q2896		76		Hi,my husband has been offered a job in Qatar with a salary of 16000. we have a 3 year old child. I would like to know whether 16000 is good enough a package considering its all inclusive which means we will have to rent a 2 bedroom apartment, get a car, etc. We would like to put our child in a good Indian curriculum school. Please help me out.
+Q2896_C1		1		0.6112314209420909
+Q2896_C2		1		0.5984026138857762
+Q2896_C3		1		0.5761857770144129
+Q2896_C4		1		0.5943656556839684
+Q2896_C5		3		0.5686233895802978
+Q2896_C6		3		0.5679949365802888
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Q2897		24		I need to purchase two tyres for my car they are 225/60 and I would like to get a good price - any suggestions?
+Q2897_C1		1		0.5954772270991742
+Q2897_C2		1		0.6239169621106939
+Q2897_C3		1		0.5937852746182889
+Q2897_C4		1		0.5817517135380338
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Q2899		26		I want to buy a laptop (Core 2 dou). Can u advise me which make I must choose.? Dell, Sony, HP....?
+Q2899_C1		1		0.605083642344322
+Q2899_C2		1		0.6323713228144243
+Q2899_C3		1		0.6262565992052537
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
