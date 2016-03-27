@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <title><%= title %></title>
+    <link rel="stylesheet" href="/bower_components/bootstrap/dist/css/bootstrap.min.css">
+    <link rel="stylesheet" href="/css/common.css">
+</head>
+<body>
+<div class="clearfix page-nav">
+    <% if(user){ %>
+    <div class="pull-left nav-username">欢迎你，<%= user.username%>!</div>
+    <div class="pull-right nav-quit"><a href="/quit">退出</a></div>
+    <% } else {%>
+    <div class="pull-right nav-register"><a href="/register">注册</a></div>
+    <div class="pull-right nav-login"><a href="/login">登录</a></div>
+    <% } %>
+</div>
+<% if(user){%>
+<div class="panel panel-info">
+    <div class="panel-heading">
+        <h3 class="panel-title"><b>日记标题：</b><%= noteResult.title %></h3>
+    </div>
+    <div class="panel-body">
+       <b>标签：</b><%= noteResult.tag %><Br>
+        <b>内容：</b></b><%= noteResult.content %>
+    </div>
+</div>
+<% } %>
+<%- include footer %>

@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <title><%= title %></title>
+    <link rel="stylesheet" href="/bower_components/bootstrap/dist/css/bootstrap.min.css">
+    <link rel="stylesheet" href="/css/common.css">
+</head>
+<body background="imgs/bg_re.jpg">
+<%if(user){%>
+<script src="bower_components/jquery/dist/jquery.min.js"></script>
+<script type="text/javascript">
+    $(document).ready(function() {
+        if($("#pagination")){
+            var pagecount="<%= count %>";//<>;//总页数
+            var pagesize =5;//<>;//页面大小
+            var currentpage ="<%= current %>";//;//当前所在页
+            var counts,pagehtml="";
+            if(pagecount%pagesize==0){
+                counts = parseInt(pagecount/pagesize);
+            }else{
+                counts = parseInt(pagecount/pagesize)+1;
+            }
+            //只有一页内容
+            if(pagecount<=pagesize){pagehtml="";}
+            //大于一页内容
+            if(pagecount>pagesize){
+                if(currentpage>1){
+                    pagehtml+= '<li><a href="/page?_pageid='+(currentpage-1)+'">上一页</a></li>';
+                }
+                for(var i=0;i<counts;i++){
+                    if(i>=(currentpage-3) && i<(currentpage+3)){
+                        if(i==currentpage-1){
+                            pagehtml+= '<li class="active"><a href="/page?_pageid='+(i+1)+'">'+(i+1)+'</a></li>';
+                        }else{
+                            pagehtml+= '<li><a href="/page?_pageid='+(i+1)+'">'+(i+1)+'</a></li>';
+                        }
+                    }
+                }
+                if(currentpage<counts){
+                    pagehtml+= '<li><a href="/page?_pageid='+(currentpage+1)+'">下一页</a></li>';
+                }
+            }
+            $("#pagination").html(pagehtml);
+        }
+    });
+</script>
+<%}%>
+<div class="clearfix page-nav">
+    <% if(user){ %>
+        <div class="pull-left nav-username">欢迎你，<%= user.username%>!</div>
+        <div class="pull-left nav-post"><a href="/post">发表</a></div>
+        <div class="pull-right nav-quit"><a href="/quit">退出</a></div>
+    <% } else {%>
+    <div class="pull-right nav-register"><a href="/register">注册</a></div>
+    <div class="pull-right nav-login"><a href="/login">登录</a></div>
+    <% } %>
+</div>
+<% if(user){%>
+<div class="container">
+    <div class="row">
+        <table class="table table-striped">
+            <caption><h1>我的笔记本列表</h1><hr></caption>
+            <thead>
+            <tr>
+                <th>标题</th>
+                <th>标签</th>
+                <th>内容</th>
+                <th>日期</th>
+            </tr>
+            </thead>
+            <tbody id="notesDetail">
+            <% result.forEach(function(noteContent){ %>
+            <tr>
+                <td class="active"><a href="/detail?_id=<%= noteContent._id %>"><%= noteContent.title %></a></td>
+                <td class="info"><%= noteContent.tag %></td>
+                <td class="info"><%= noteContent.content %></td>
+                <td class="success"><%= noteContent.createTime %></td>
+            </tr>
+            <% }) %>
+            </tbody>
+        </table>
+        <nav class="pull-right">
+            <ul class="pagination" id="pagination">
+            </ul>
+        </nav>
+    </div>
+</div>
+<% } %>
+<%- include footer %>
