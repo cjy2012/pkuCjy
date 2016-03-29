@@ -5,6 +5,7 @@ var path=require('path');
 var bodyParser=require('body-parser');
 var crypto=require('crypto');
 var session=require('express-session');
+var moment = require('moment');
 //引入mongoose
 var mongoose=require('mongoose');
 //引入模型
@@ -66,7 +67,8 @@ app.get('/',function(req,res){
 						result:result,
 						current:1,
 						count:count,
-						title:'首页'
+						title:'首页',
+						moment:moment
 					});
 				}
 		});
@@ -103,7 +105,8 @@ app.get('/page',function(req,res){
 				result:result,
 				current:currentPage,
 				count:count,
-				title:'首页'
+				title:'首页',
+				moment:moment
 			});
 		}
 	});
@@ -160,7 +163,7 @@ app.post('/register',function(req,res){
 		});
 	}
 	if(!username.trim().match(userRule)){
-		console.log('用户名只能由字母、数字、下划线组成');
+		//console.log('用户名只能由字母、数字、下划线组成');
 		registerInfo='用户名只能由字母、数字、下划线组成';
 		//return res.redirect('/register');
 		return res.render('register', {
@@ -171,7 +174,7 @@ app.post('/register',function(req,res){
 	}
 	//检查输入的密码是否为空
 	if(password.trim().length<6){
-		console.log('密码不能为空且长度不能小于6');
+		//console.log('密码不能为空且长度不能小于6');
 		registerInfo='密码不能为空且长度不能小于6';
 		//return res.redirect('/register');
 		return res.render('register', {
@@ -359,7 +362,26 @@ app.get('/detail',function(req,res){
 				user:req.session.user,
 				noteResult:noteResult,
 				title:'日记详情',
+				moment:moment
 			});
+		});
+	}else{
+		console.log('请您先登录，再查看笔记！');
+		return res.redirect('/login');
+	}
+});
+
+app.get('/delete',function(req,res){
+	if(req.session.user){
+		var noteId=req.query._id;
+		Note.remove({_id:noteId},function(err,noteResult){
+			if(err){
+				console.log(err);
+				return res.redirect('/');
+			}
+			else{
+				res.redirect('/');
+			}
 		});
 	}else{
 		console.log('请您先登录，再查看笔记！');

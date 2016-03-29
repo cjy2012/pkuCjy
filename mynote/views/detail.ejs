@@ -17,13 +17,12 @@
     <% } %>
 </div>
 <% if(user){%>
-<div class="panel panel-info">
-    <div class="panel-heading">
-        <h3 class="panel-title"><b>日记标题：</b><%= noteResult.title %></h3>
-    </div>
-    <div class="panel-body">
-       <b>标签：</b><%= noteResult.tag %><Br>
-        <b>内容：</b></b><%= noteResult.content %>
+<div class="jumbotron" id="detail-page">
+    <div class="container text-center">
+        <h2><%= noteResult.title %></h2>
+        <span class="label label-info"><%= noteResult.tag %></span>
+        <span class="label label-success"><%= moment(noteResult.createTime).locale('zh-cn').format('LL HH:mm:ss') %></span><br>
+        <br><p><%= noteResult.content %></p>
     </div>
 </div>
 <% } %>
