@@ -1,0 +1,21 @@
+{
+  "name": "picsshow",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^2.4.1",
+    "express": "^4.13.4",
+    "express-session": "^1.13.0",
+    "qs": "^6.1.0",
+    "request": "^2.71.0",
+    "tmpl": "^1.0.4",
+    "ws": "^1.1.0",
+    "xml2js": "^0.4.16"
+  }
+}
