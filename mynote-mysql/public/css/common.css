@@ -1,0 +1,42 @@
+.page-title{
+    font-size:20px;
+}
+
+.page-nav{
+    padding:10px;
+    background-color:#414141;
+    margin-bottom: 30px;
+}
+
+.nav-username,
+.nav-register,
+.nav-login{
+    margin:0 10px;
+}
+
+.nav-register a,
+.nav-login a,
+.nav-quit a,
+.nav-post a,
+.nav-username{
+    margin:0 10px;
+    color:#fff;
+}
+
+.nav-register a:hover,
+.nav-login a:hover,
+.nav-quit a:hover,
+.nav-post a:hover{
+    text-decoration: none;
+}
+
+#notesDetail a:hover {
+    text-decoration: none;
+}
+
+#detail-page{
+    margin-top:30px;
+    margin-left: 10%;
+    margin-right:10%;
+}
+
